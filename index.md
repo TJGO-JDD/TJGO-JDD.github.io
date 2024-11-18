@@ -22,10 +22,9 @@
       margin: 0;
     }
     hr {
-      border: none;
-      border-top: 1px solid black;
-      margin: 10px auto;
-      width: 80%;
+        width: 80%;
+        border: 1px solid black;
+        margin: 10px auto;
     }
   </style>
 </head>
