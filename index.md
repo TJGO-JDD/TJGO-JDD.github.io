@@ -1,20 +1,43 @@
----
-layout: default
----
-
-<center><FONT face="Swis721 Cn BT"SIZE=6 COLOR="black">
- ÑOL IVAN JUAN DE DIOS ROJAS</FONT></center>
-
- <center><FONT FACE="Swis721 Cn BT" SIZE=4 COLOR="black">
-PORTAFOLIO PROFESIONAL</FONT></center>
-
----
-
-
-<br>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio Profesional</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      color: black;
+      text-align: center;
+    }
+    .title {
+      font-family: "Swis721 Cn BT", sans-serif;
+      font-size: 2.5rem;
+      color: black;
+      margin: 0;
+    }
+    .subtitle {
+      font-family: "Swis721 Cn BT", sans-serif;
+      font-size: 1.5rem;
+      color: black;
+      margin: 0;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid black;
+      margin: 10px auto;
+      width: 80%;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="title">ÑOL IVAN JUAN DE DIOS ROJAS</h1>
+  <h2 class="subtitle">PORTAFOLIO PROFESIONAL</h2>
+</body>
+</html>
 <div style="text-align: center;">
   <div style="display: inline-block;">
-    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;">ÑOL IVAN JUAN DE DIOS ROJAS | Date: 03/01/24  | PYTHON | TJGO</span>
+    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> TJGO INFRATEC | JUAN DE DIOS GEOLAB | TJGO</span>
     </div>
 </div>
 
