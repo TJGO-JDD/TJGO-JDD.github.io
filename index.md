@@ -41,7 +41,7 @@
     </div>
 </div>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 
 [![Facebook](https://img.shields.io/badge/Facebook--blue?logo=Facebook&logoColor=white)](https://www.facebook.com/nolivan.juandediosrojas/)
@@ -52,6 +52,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [![TikTok](https://img.shields.io/badge/TikTok--black?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ivanjddhood)
 
 
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
