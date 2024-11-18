@@ -31,7 +31,9 @@
 </head>
 <body>
   <h1 class="title">ÑOL IVAN JUAN DE DIOS ROJAS</h1>
+    <hr>
   <h2 class="subtitle">PORTAFOLIO PROFESIONAL</h2>
+    <hr>
 </body>
 </html>
 <div style="text-align: center;">
