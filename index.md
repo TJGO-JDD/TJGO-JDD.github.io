@@ -2,13 +2,14 @@
 layout: default
 ---
 
-<center><font face="SWIZ CN BT"SIZE=6 COLOR="black">
+<center><font face="Swis721 Cn BT"SIZE=6 COLOR="black">
  ÑOL IVAN JUAN DE DIOS ROJAS</FONT></center>
 
  <center><FONT FACE="Swis721 Cn BT" SIZE=4 COLOR="black">
 PORTAFOLIO PROFESIONAL</FONT></center>
 
 ---
+
 
 <br>
 <div style="text-align: center;">
