@@ -20,8 +20,6 @@
 </div>
 
 
-
-
 [![Facebook](https://img.shields.io/badge/Facebook--blue?logo=Facebook&logoColor=white)](https://www.facebook.com/nolivan.juandediosrojas/)
 [![Instagram](https://img.shields.io/badge/Instagram--pink?logo=Instagram&logoColor=white)](https://www.instagram.com/ivan_jdd_tjgo/)
 [![X](https://img.shields.io/badge/X--blue?logo=X&logoColor=white)](https://x.com/ivanjuandedios1)
@@ -29,8 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%C3%B1ol-ivan-juan-de-dios-rojas-600b36273/)
 [![YouTube](https://img.shields.io/badge/YouTube--red?logo=YouTube&logoColor=white)](https://www.youtube.com/@nolivanjuandediosrojas7820)
 [![TikTok](https://img.shields.io/badge/TikTok--black?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ivanjddhood)
-
-
 
 ---
 <p align="center">
