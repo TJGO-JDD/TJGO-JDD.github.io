@@ -3,30 +3,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portafolio Profesional</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: black;
-      text-align: center;
-    }
-    .title {
-      font-family: "Swis721 Cn BT", sans-serif;
-      font-size: 1.5rem;
-      color: black;
-      margin: 0;
-    }
-    .subtitle {
-      font-family: "Swis721 Cn BT", sans-serif;
-      font-size: 1rem;
-      color: black;
-      margin: 0;
-    }
-    hr {
-        width: 80%;
-        border: 1px solid black;
-        margin: 10px auto;
-    }
-  </style>
+  <!-- Enlace al archivo CSS -->
+  <link rel="stylesheet" href="/assets/css/TJGOStyle.css">
 </head>
 <body>
   <h1 class="title">PORTAFOLIO PROFESIONAL</h1>
