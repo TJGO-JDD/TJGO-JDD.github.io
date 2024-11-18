@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center><font face="Swis721 Cn BT"SIZE=6 COLOR="black">
+<center><FONT face="Swis721 Cn BT"SIZE=6 COLOR="black">
  ÑOL IVAN JUAN DE DIOS ROJAS</FONT></center>
 
  <center><FONT FACE="Swis721 Cn BT" SIZE=4 COLOR="black">
