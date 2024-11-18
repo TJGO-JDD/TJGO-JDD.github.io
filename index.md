@@ -11,13 +11,13 @@
     }
     .title {
       font-family: "Swis721 Cn BT", sans-serif;
-      font-size: 2.5rem;
+      font-size: 1.5rem;
       color: black;
       margin: 0;
     }
     .subtitle {
       font-family: "Swis721 Cn BT", sans-serif;
-      font-size: 1.5rem;
+      font-size: 1rem;
       color: black;
       margin: 0;
     }
@@ -37,7 +37,7 @@
 </html>
 <div style="text-align: center;">
   <div style="display: inline-block;">
-    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> 2024 </span>
+    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2024 Todos los derechos reservados. </span>
     </div>
 </div>
 
