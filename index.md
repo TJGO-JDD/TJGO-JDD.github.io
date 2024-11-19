@@ -7,18 +7,16 @@
   <link rel="stylesheet" href="/assets/css/TJGOStyle.css">
 </head>
 <body>
+  
   <h1 class="title">PORTAFOLIO PROFESIONAL</h1>
-  <div class="spacer"></div>
-  <div class="spacer"></div>
   <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB | TJGO</h2>
-  <div class="spacer"></div>
-  <div style="text-align: center;">
-    <div style="display: inline-block;">
-      <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;">
-        © 2024 Todos los derechos reservados.</span>
+</body>
+</html>
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2024 Todos los derechos reservados. </span>
     </div>
 </div>
-
 
 [![Facebook](https://img.shields.io/badge/Facebook--blue?logo=Facebook&logoColor=white)](https://www.facebook.com/nolivan.juandediosrojas/)
 [![Instagram](https://img.shields.io/badge/Instagram--pink?logo=Instagram&logoColor=white)](https://www.instagram.com/ivan_jdd_tjgo/)
