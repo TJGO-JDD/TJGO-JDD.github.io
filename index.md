@@ -7,7 +7,6 @@
   <link rel="stylesheet" href="/assets/css/TJGOStyle.css">
 </head>
 <body>
-  <div class="spacer"></div>
   <h1 class="title">PORTAFOLIO PROFESIONAL</h1>
   <div class="spacer"></div>
   <hr>
@@ -21,6 +20,7 @@
   <div style="display: inline-block;">
     <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2024 Todos los derechos reservados. </span>
     </div>
+  <div class="spacer"></div>
 </div>
 
 [![Facebook](https://img.shields.io/badge/Facebook--blue?logo=Facebook&logoColor=white)](https://www.facebook.com/nolivan.juandediosrojas/)
