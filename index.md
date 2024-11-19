@@ -36,7 +36,7 @@
 
 ---
 
-
+<div class="spacer"></div>
 
 <p align="center">
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
