@@ -9,7 +9,9 @@
 <body>
   
   <h1 class="title">PORTAFOLIO PROFESIONAL</h1>
+  
   <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB | TJGO</h2>
+  
 </body>
 </html>
 <div style="text-align: center;">
