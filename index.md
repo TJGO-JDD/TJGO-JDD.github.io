@@ -33,6 +33,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok--black?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ivanjddhood)
 
 ---
+
 <p align="center">
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
 <img src="assets\img\python logo.png" width="6%" height="10%">
