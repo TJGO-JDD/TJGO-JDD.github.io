@@ -7,21 +7,15 @@
   <link rel="stylesheet" href="/assets/css/TJGOStyle.css">
 </head>
 <body>
-  
   <h1 class="title">PORTAFOLIO PROFESIONAL</h1>
-
-  
-    <hr>
-    
+  <div class="spacer"></div>
+  <div class="spacer"></div>
   <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB | TJGO</h2>
-
-  
-    <hr>
-</body>
-</html>
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2024 Todos los derechos reservados. </span>
+  <div class="spacer"></div>
+  <div style="text-align: center;">
+    <div style="display: inline-block;">
+      <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;">
+        © 2024 Todos los derechos reservados.</span>
     </div>
 </div>
 
