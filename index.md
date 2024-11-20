@@ -52,12 +52,20 @@
 </p>
 
 
-## Apuntes de Ingeniería Estructural
+## SITEMAS DE ECUACIONES NO LINEALES
 
-Apuntes realizados en una pizarra digital para el uso académico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
+Programas para la solucion de sistemas de ecuaciones no lineales
 
 ```markdown
-SITEMA DE ECUACIONES NO LINEALES 
+METODO DE BROYDEN
+```
+
+```markdown
+METODO DE NEWTON RAPHSON
+```
+
+```markdown
+METODO DE PUNTO FIJO MULTIVARIABLE
 ```
 
 
