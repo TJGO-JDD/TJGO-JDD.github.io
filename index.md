@@ -52,16 +52,12 @@
 </p>
 
 
+## Apuntes de Ingeniería Estructural
+
+Apuntes realizados en una pizarra digital para el uso académico y profesional. Estos apuntes se comparten de manera libre en las redes sociales.
+
 ```markdown
 SITEMA DE ECUACIONES NO LINEALES 
 ```
 
->Un nivel de Indentacion
-
-
-```markdown
->>Dos niveles de indentacion
-```
-
->>Dos niveles de indentacion
 
