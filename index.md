@@ -51,3 +51,30 @@
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
+
+------------------
+
+# Tensors
+
+<table>
+<tr>
+<td>
+
+Depiction of the Cauchy stress tensor, a second-order tensor.
+The tensor's components, in a three-dimensional Cartesian coordinate
+system, form the matrix
+
+$$\begin{align}
+\sigma & = \begin{bmatrix}\mathbf{T}^{(\mathbf{e}_1)} \mathbf{T}^{(\mathbf{e}_2)} \mathbf{T}^{(\mathbf{e}_3)} \\ \end{bmatrix} \\
+& = \begin{bmatrix} \sigma_{11} & \sigma_{12} & \sigma_{13} \\ \sigma_{21} & \sigma_{22} & \sigma_{23} \\ \sigma_{31} & \sigma_{32} & \sigma_{33} \end{bmatrix}\\
+\end{align}$$
+
+whose columns are the stresses (forces per unit area) acting on the $\mathbf{e}_1$ , $\mathbf{e}_2$, and $\mathbf{e}_3$ faces of the cube.
+</td>
+<td>
+dcfdbsdfbfd
+</td>
+</tr>
+</table>
+
+------------------
