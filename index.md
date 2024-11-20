@@ -52,9 +52,15 @@
 </p>
 
 
-------------------
+---
+title: Tensors
+---
 
 # Tensors
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
 
 <table>
 <tr>
@@ -70,11 +76,11 @@ $$\begin{align}
 \end{align}$$
 
 whose columns are the stresses (forces per unit area) acting on the $\mathbf{e}_1$ , $\mathbf{e}_2$, and $\mathbf{e}_3$ faces of the cube.
+
 </td>
 <td>
-dcfdbsdfbfd
+dsvsdvds
 </td>
 </tr>
 </table>
 
-------------------
