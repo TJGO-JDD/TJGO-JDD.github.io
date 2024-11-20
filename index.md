@@ -66,7 +66,7 @@ function result = myFunction(input)
     result = input^2;
     disp(['The square of the input is: ', num2str(result)]);
 end
-
+```
 
 ```markdown
 METODO DE NEWTON RAPHSON
