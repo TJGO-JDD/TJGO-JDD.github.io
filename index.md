@@ -59,6 +59,12 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 ```markdown
 METODO DE BROYDEN
 ```
+% MATLAB code with syntax highlighting
+function result = myFunction(input)
+    % This function computes the square of the input
+    result = input^2;
+    disp(['The square of the input is: ', num2str(result)]);
+end
 
 ```markdown
 METODO DE NEWTON RAPHSON
