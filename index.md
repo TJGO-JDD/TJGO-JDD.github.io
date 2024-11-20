@@ -60,11 +60,9 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 METODO DE BROYDEN
 ```
 ```matlab
-% MATLAB code with syntax highlighting
 function result = myFunction(input)
-    % This function computes the square of the input
-    result = input^2;
-    disp(['The square of the input is: ', num2str(result)]);
+result = input^2;
+disp(['The square of the input is: ', num2str(result)]);
 end
 ```
 
