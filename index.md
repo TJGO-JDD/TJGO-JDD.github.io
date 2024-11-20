@@ -53,7 +53,7 @@
 
 
 ```markdown
-** SITEMA DE ECUACIONES NO LINEALES **
+SITEMA DE ECUACIONES NO LINEALES 
 ```
 
 >Un nivel de Indentacion
