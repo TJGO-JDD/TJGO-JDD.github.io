@@ -74,7 +74,7 @@ Programas para la solucion de sistemas de ecuaciones en una variable
 ```markdown
 METODO DE BISECCIÓN
 ```
-<p align="center">
+<p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -102,7 +102,7 @@ METODO DE BISECCIÓN
 ```markdown
 METODO DE LA SECANTE
 ```
-<p align="center">
+<p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -112,7 +112,7 @@ METODO DE LA SECANTE
 ```markdown
 METODO DE NEWTON RHAPSON
 ```
-<p align="center">
+<p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -124,7 +124,7 @@ METODO DE NEWTON RHAPSON
 ```markdown
 METODO DE PUNTO FIJO
 ```
-<p align="center">
+<p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
