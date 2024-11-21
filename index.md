@@ -278,7 +278,7 @@ METODO DE PUNTO FIJO
 
 El método del punto fijo se utiliza para resolver ecuaciones de la forma 
 $$ 
-f(x) = 0\) 
+f(x) = 0 
 $$ 
 al reescribirlas como 
 $$ 
@@ -286,19 +286,19 @@ x = g(x)
 $$ 
 . El algoritmo es iterativo y comienza con una estimación inicial,
 $$ 
-\(x_0\)
+x_0
 $$ 
 , que se sustituye en 
 $$
-\(g(x)\)
+g(x)
 $$ 
 para obtener 
 $$ 
-\(x_1\).
+x_1
 $$
 Este proceso se repite hasta que la secuencia converge al valor deseado. Es sencillo de implementar, pero su convergencia depende de la elección adecuada de la función 
 $$ 
-\(g(x)\)
+g(x)
 $$ 
 y de la proximidad inicial al punto fijo.
 
