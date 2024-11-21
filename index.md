@@ -57,6 +57,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## SISTEMA DE UN GRADO DE LIBERTAD
 ---
 Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB, usando interfaces graficas.
@@ -75,6 +85,29 @@ Graficas de representación para un sistema de grado de libertad interactivo usa
 <p align="center">
 <img src="assets\img\MATLAB3.jpeg" width="100%" height="100%">
 </p>
+
+
+
+## INTERPOLACIÓN Y APROXIMACIÓN LINEAL
+---
+Programas para la in terpolación y aproximación lineal realizados en Matlab.
+
+```markdown
+METODO DE NEWTON
+```
+<p align="left">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTONINTER.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+
+
+
+
+
+
+
 
 
 ## SITEMAS DE ECUACIONES EN UNA VARIABLE
