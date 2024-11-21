@@ -231,6 +231,21 @@ METODO DE BISECCIÓN
 ```markdown
 METODO DE LA SECANTE
 ```
+<p align="justify"><b>
+El método de la secante es una técnica iterativa para resolver ecuaciones no lineales de una sola variable. A diferencia del método de Newton-Raphson, no requiere el cálculo de la derivada de la función. En su lugar, utiliza una aproximación de la derivada basada en dos puntos anteriores de la función:
+</b></p>
+
+
+\[
+x_{n+1} = x_n - f(x_n) \frac{x_n - x_{n-1}}{f(x_n) - f(x_{n-1})}.
+\]
+<p align="justify"><b>
+Este método es útil cuando la derivada es difícil de calcular, aunque su convergencia es generalmente más lenta que la del método de Newton.
+</b></p>
+
+
+
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -291,6 +306,10 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 ```markdown
 METODO DE BROYDEN
 ```
+<p align="justify"><b>
+El método de Broyden es un enfoque cuasi-Newton para resolver sistemas de ecuaciones no lineales. Este método elimina la necesidad de calcular el Jacobiano exacto en cada iteración, reemplazándolo con una aproximación que se actualiza a medida que avanza la solución. Esto lo hace ideal para sistemas grandes o cuando el cálculo del Jacobiano es complejo. Aunque su convergencia es más lenta que el método de Newton-Raphson, es computacionalmente más eficiente.
+</b></p>
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -303,6 +322,9 @@ METODO DE BROYDEN
 ```markdown
 METODO DE NEWTON RAPHSON
 ```
+<p align="justify"><b>
+El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado para resolver sistemas de ecuaciones no lineales. Se basa en linealizar el sistema mediante una expansión de Taylor y resolver las ecuaciones lineales resultantes en cada iteración. Es conocido por su rápida convergencia cuando se encuentra cerca de la solución exacta, pero requiere el cálculo del Jacobiano, lo cual puede ser computacionalmente costoso para problemas complejos.
+</b></p>
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
