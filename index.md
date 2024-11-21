@@ -276,11 +276,11 @@ METODO DE NEWTON RHAPSON
 METODO DE PUNTO FIJO
 ```
 
-#
+
 
 Esta es una ecuación en línea: \(E = mc^2\).
 
----
+
    
 
 <p align="left">
