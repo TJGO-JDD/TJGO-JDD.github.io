@@ -31,6 +31,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%C3%B1ol-ivan-juan-de-dios-rojas-600b36273/)
 [![YouTube](https://img.shields.io/badge/YouTube--red?logo=YouTube&logoColor=white)](https://www.youtube.com/@nolivanjuandediosrojas7820)
 [![TikTok](https://img.shields.io/badge/TikTok--black?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ivanjddhood)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Share-green?logo=whatsapp&logoColor=white)](https://wa.me/51917726087?text=Deseo%20informaci%C3%B3n%20sobre!%20....)
+
 
 ---
 <div class="spacer"></div>
