@@ -52,8 +52,52 @@
 </p>
 
 
-## SITEMAS DE ECUACIONES NO LINEALES
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## SITEMAS DE ECUACIONES NO LINEALES
+---
 Programas para la solucion de sistemas de ecuaciones no lineales
 
 ```markdown
