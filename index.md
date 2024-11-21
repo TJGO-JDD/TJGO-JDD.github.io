@@ -56,60 +56,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SISTEMA DE UN GRADO DE LIBERTAD
 ---
 Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB.
@@ -122,39 +68,15 @@ METODO DE BROYDEN
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-UN-GRADO-DE-LIBERTAD)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img src="assets\img\MATLAB1.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\MATLAB2.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\MATLAB3.png" width="100%" height="100%">
+</p>
 
 
 ## SITEMAS DE ECUACIONES EN UNA VARIABLE
