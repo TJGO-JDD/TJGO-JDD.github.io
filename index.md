@@ -69,13 +69,13 @@ METODO DE BROYDEN
 </p>
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-UN-GRADO-DE-LIBERTAD)  
 <p align="center">
-<img src="assets\img\MATLAB1.png" width="100%" height="100%">
+<img src="assets\img\MATLAB1.jpeg" width="100%" height="100%">
 </p>
 <p align="center">
-<img src="assets\img\MATLAB2.png" width="100%" height="100%">
+<img src="assets\img\MATLAB2.jpeg" width="100%" height="100%">
 </p>
 <p align="center">
-<img src="assets\img\MATLAB3.png" width="100%" height="100%">
+<img src="assets\img\MATLAB3.jpeg" width="100%" height="100%">
 </p>
 
 
