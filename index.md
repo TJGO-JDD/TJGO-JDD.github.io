@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -272,7 +276,11 @@ METODO DE NEWTON RHAPSON
 METODO DE PUNTO FIJO
 ```
 
-$$\hat{\mathbf{e}}_i \times \hat{\mathbf{e}}_j = \sum_{k=1}^{3}\epsilon_{ijk} \hat{\mathbf{e}}_k$$
+#
+
+Esta es una ecuación en línea: \(E = mc^2\).
+
+---
    
 
 <p align="left">
