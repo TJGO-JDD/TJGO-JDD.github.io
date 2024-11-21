@@ -93,9 +93,7 @@ Graficas de representación para un sistema de grado de libertad interactivo usa
 Programas para la in terpolación y aproximación lineal realizados en Matlab.
 
 ```markdown
-<p align="justify"><b>
 METODO DE LAGRANGE
-</b></p>
 ```
 
 <p align="justify"><b>
