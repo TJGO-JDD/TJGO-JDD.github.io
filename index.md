@@ -60,7 +60,7 @@
 
 ## SISTEMA DE UN GRADO DE LIBERTAD
 ---
-Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB.
+Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB, usando interfaces graficas.
 
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
