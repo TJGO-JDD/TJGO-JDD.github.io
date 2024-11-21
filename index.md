@@ -215,11 +215,9 @@ METODO DE BISECCIÓN
 ```
 
 El método de bisección es una técnica simple y robusta para encontrar raíces de funciones continuas. Se basa en el teorema del valor intermedio, que establece que si 
-
 $$
 f(a) \cdot f(b) < 0
 $$ 
-
 en un intervalo 
 $$
 [a, b]
@@ -281,6 +279,24 @@ El método de la secante es una técnica iterativa para resolver ecuaciones no l
 ```markdown
 METODO DE NEWTON RHAPSON
 ```
+
+El método de Newton-Raphson es una técnica iterativa de rápida convergencia para resolver ecuaciones no lineales. Utiliza una aproximación lineal de la función basada en su derivada. En cada iteración, se calcula un nuevo valor de 
+$$
+x
+$$ 
+usando la fórmula:
+
+$$
+x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}
+$$
+
+Aunque es extremadamente eficiente cerca de la raíz, requiere el cálculo de la derivada 
+$$
+f'(x)
+$$ 
+y una buena aproximación inicial para garantizar la convergencia. Este método es ideal para problemas donde la función es suave y diferenciable.
+
+
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
