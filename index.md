@@ -60,9 +60,6 @@
 ---
 Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB.
 
-```markdown
-METODO DE BROYDEN
-```
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
