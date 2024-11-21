@@ -143,9 +143,10 @@ METODO DE HERMITE
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HERMITE_IVAN.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
-Concepto: El método de Hermite es un tipo de interpolación polinómica que no solo utiliza los valores de las funciones en ciertos puntos (como en Lagrange), sino también las derivadas de la función en esos puntos. Esto lo hace particularmente útil para situaciones donde la función original es suave y se conocen valores adicionales como pendientes.
-Historia: Este método lleva el nombre de Charles Hermite (1822-1901), un matemático francés que realizó importantes contribuciones al análisis, la teoría de números y las ecuaciones diferenciales.
-Uso: Ideal para interpolar datos que tienen restricciones adicionales, como información sobre tasas de cambio, derivadas o curvaturas.
+
+El método de Hermite es un tipo de interpolación polinómica que no solo utiliza los valores de las funciones en ciertos puntos (como en Lagrange), sino también las derivadas de la función en esos puntos. Esto lo hace particularmente útil para situaciones donde la función original es suave y se conocen valores adicionales como pendientes.
+Este método lleva el nombre de Charles Hermite (1822-1901), un matemático francés que realizó importantes contribuciones al análisis, la teoría de números y las ecuaciones diferenciales.
+Ideal para interpolar datos que tienen restricciones adicionales, como información sobre tasas de cambio, derivadas o curvaturas.
 
 <p align="center">
 <img src="assets\img\HERMITE.png" width="100%" height="100%">
