@@ -173,7 +173,7 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 ```markdown
 METODO DE BROYDEN
 ```
-<p align="center">
+<p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -185,7 +185,7 @@ METODO DE BROYDEN
 ```markdown
 METODO DE NEWTON RAPHSON
 ```
-<p align="center">
+<p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
