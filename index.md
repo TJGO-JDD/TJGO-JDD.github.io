@@ -70,8 +70,6 @@ end
 METODO DE NEWTON RAPHSON
 ```
 
-```markdown
-METODO DE PUNTO FIJO MULTIVARIABLE
-```
+
 
 
