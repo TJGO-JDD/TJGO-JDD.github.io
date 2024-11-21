@@ -59,17 +59,12 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 ```markdown
 METODO DE BROYDEN
 ```
-```matlab
-function result = myFunction(input)
-result = input^2;
-disp(['The square of the input is: ', num2str(result)]);
-end
-```
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_MB.pdf)
 
 ```markdown
 METODO DE NEWTON RAPHSON
 ```
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_NR PARA_3_VARIABLES.pdf)
 
 
 
