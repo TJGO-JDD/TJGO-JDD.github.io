@@ -75,7 +75,7 @@
 ---
 Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB, usando interfaces graficas.
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -108,7 +108,7 @@ Popular en problemas de interpolación cuando los puntos son pocos y el polinomi
 
 
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -143,7 +143,7 @@ Muy eficiente para grandes conjuntos de datos o cuando los puntos están distrib
 
 
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -168,7 +168,7 @@ Ideal para interpolar datos que tienen restricciones adicionales, como informaci
 
 
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -194,7 +194,7 @@ Este método es atribuido a Eric Harold Neville (1889-1961), un matemático ingl
 
 
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -213,7 +213,29 @@ Programas para la solucion de sistemas de ecuaciones en una variable
 ```markdown
 METODO DE BISECCIÓN
 ```
-<p align="left">
+
+El método de bisección es una técnica simple y robusta para encontrar raíces de funciones continuas. Se basa en el teorema del valor intermedio, que establece que si 
+
+$$
+f(a) \cdot f(b) < 0
+$$ 
+
+en un intervalo 
+$$
+[a, b]
+$$ 
+entonces existe al menos una raíz en ese intervalo. Este método divide el intervalo en dos subintervalos iguales y selecciona el que contiene la raíz. En cada iteración, se calcula el punto medio:
+$$
+c = \frac{a + b}{2}
+$$ 
+Dependiendo del signo de 
+$$
+f(c)
+$$ 
+se actualiza el intervalo para acercarse a la raíz. Aunque es más lento que otros métodos, siempre converge si se cumplen las condiciones iniciales.
+
+
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -243,7 +265,7 @@ El método de la secante es una técnica iterativa para resolver ecuaciones no l
 
 
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -259,7 +281,7 @@ El método de la secante es una técnica iterativa para resolver ecuaciones no l
 ```markdown
 METODO DE NEWTON RHAPSON
 ```
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -307,7 +329,7 @@ y de la proximidad inicial al punto fijo.
 
    
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -339,7 +361,7 @@ METODO DE BROYDEN
 El método de Broyden es un enfoque cuasi-Newton para resolver sistemas de ecuaciones no lineales. Este método elimina la necesidad de calcular el Jacobiano exacto en cada iteración, reemplazándolo con una aproximación que se actualiza a medida que avanza la solución. Esto lo hace ideal para sistemas grandes o cuando el cálculo del Jacobiano es complejo. Aunque su convergencia es más lenta que el método de Newton-Raphson, es computacionalmente más eficiente.
 </b></p>
 
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
@@ -354,7 +376,7 @@ METODO DE NEWTON RAPHSON
 <p align="justify"><b>
 El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado para resolver sistemas de ecuaciones no lineales. Se basa en linealizar el sistema mediante una expansión de Taylor y resolver las ecuaciones lineales resultantes en cada iteración. Es conocido por su rápida convergencia cuando se encuentra cerca de la solución exacta, pero requiere el cálculo del Jacobiano, lo cual puede ser computacionalmente costoso para problemas complejos.
 </b></p>
-<p align="left">
+<p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
