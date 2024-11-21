@@ -96,9 +96,12 @@ Programas para la in terpolación y aproximación lineal realizados en Matlab.
 METODO DE LAGRANGE
 ```
 
+<p align="justify"><b>
 El método de Lagrange es una técnica de interpolación polinómica que construye un único polinomio que pasa por un conjunto dado de puntos. Utiliza "polinomios base" para garantizar que cada punto dado contribuya a la construcción del polinomio final.
 Lleva el nombre de Joseph-Louis Lagrange (1736-1813), un matemático e ingeniero italiano-francés que desarrolló este método como parte de sus estudios sobre polinomios en el siglo XVIII.
 Popular en problemas de interpolación cuando los puntos son pocos y el polinomio resultante puede construirse explícitamente.
+</b></p>
+
 
 
 <p align="left">
@@ -127,9 +130,13 @@ Popular en problemas de interpolación cuando los puntos son pocos y el polinomi
 ```markdown
 METODO DE NEWTON
 ```
+
+<p align="justify"><b>
 Este método utiliza diferencias divididas para construir el polinomio de interpolación. Es particularmente eficiente porque se puede extender fácilmente si se añaden nuevos puntos, sin necesidad de recalcular todo el polinomio desde cero.
 Atribuido a Isaac Newton (1643-1727), quien fue pionero en el desarrollo del cálculo y los métodos numéricos. Newton aplicó este método en sus investigaciones de la mecánica celeste.
 Muy eficiente para grandes conjuntos de datos o cuando los puntos están distribuidos no uniformemente.
+</b></p>
+
 
 
 <p align="left">
@@ -148,10 +155,13 @@ Muy eficiente para grandes conjuntos de datos o cuando los puntos están distrib
 ```markdown
 METODO DE HERMITE
 ```
-
+<p align="justify"><b>
 El método de Hermite es un tipo de interpolación polinómica que no solo utiliza los valores de las funciones en ciertos puntos (como en Lagrange), sino también las derivadas de la función en esos puntos. Esto lo hace particularmente útil para situaciones donde la función original es suave y se conocen valores adicionales como pendientes.
 Este método lleva el nombre de Charles Hermite (1822-1901), un matemático francés que realizó importantes contribuciones al análisis, la teoría de números y las ecuaciones diferenciales.
 Ideal para interpolar datos que tienen restricciones adicionales, como información sobre tasas de cambio, derivadas o curvaturas.
+</b></p>
+
+
 
 
 <p align="left">
@@ -172,10 +182,12 @@ Ideal para interpolar datos que tienen restricciones adicionales, como informaci
 ```markdown
 METODO DE NEVILLE
 ```
-
+<p align="justify"><b>
 El método de Neville es una técnica recursiva para encontrar valores interpolados. Construye el valor de la función en un punto deseado usando un esquema de tabla, basándose en una combinación de valores adyacentes.
 Este método es atribuido a Eric Harold Neville (1889-1961), un matemático inglés que trabajó en geometría y análisis numérico.
 Útil para interpolar de manera eficiente en un solo punto sin necesidad de construir el polinomio completo. Es especialmente adecuado para cálculos manuales o situaciones donde los datos pueden cambiar durante los cálculos.
+</b></p>
+
 
 
 <p align="left">
