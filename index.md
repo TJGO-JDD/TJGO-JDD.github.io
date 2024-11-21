@@ -71,6 +71,7 @@
 ---
 Programas para la solucion de sistemas de ecuaciones en una variable
 
+
 ```markdown
 METODO DE BISECCIÓN
 ```
@@ -79,8 +80,7 @@ METODO DE BISECCIÓN
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BISECCION.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
 <p align="center">
 <img src="assets\img\BISECCION4.png" width="100%" height="100%">
 </p>
@@ -94,11 +94,6 @@ METODO DE BISECCIÓN
 <img src="assets\img\BISECCION3.png" width="100%" height="100%">
 </p>
 
-
-
-
-
-
 ```markdown
 METODO DE LA SECANTE
 ```
@@ -107,20 +102,13 @@ METODO DE LA SECANTE
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SECANTE.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
 <p align="center">
 <img src="assets\img\SECANTE1.png" width="100%" height="100%">
 </p>
 <p align="center">
 <img src="assets\img\SECANTE2.png" width="100%" height="100%">
 </p>
-
-
-
-
-
-
-
 
 ```markdown
 METODO DE NEWTON RHAPSON
@@ -130,24 +118,13 @@ METODO DE NEWTON RHAPSON
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTON.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
 <p align="center">
 <img src="assets\img\NEWTON1.png" width="100%" height="100%">
 </p>
 <p align="center">
 <img src="assets\img\NEWTON2.png" width="100%" height="100%">
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 ```markdown
 METODO DE PUNTO FIJO
@@ -157,8 +134,7 @@ METODO DE PUNTO FIJO
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PUNTO_FIJO.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)    
 <p align="center">
 <img src="assets\img\PUNTOFIJO1.png" width="100%" height="100%">
 </p>
