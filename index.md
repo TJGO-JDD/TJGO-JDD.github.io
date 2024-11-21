@@ -95,6 +95,7 @@ Programas para la in terpolación y aproximación lineal realizados en Matlab.
 ```markdown
 METODO DE LAGRANGE
 ```
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -114,11 +115,13 @@ METODO DE LAGRANGE
 <p align="center">
 <img src="assets\img\LAGRANGE5.png" width="100%" height="100%">
 </p>
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
+
 
 ```markdown
 METODO DE NEWTON
 ```
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTONINTER.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -126,13 +129,14 @@ METODO DE NEWTON
 <p align="center">
 <img src="assets\img\NEWTONIN.png" width="100%" height="100%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTONINTER.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
+
 
 
 ```markdown
 METODO DE HERMITE
 ```
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HERMITE_IVAN.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -140,19 +144,19 @@ METODO DE HERMITE
 <p align="center">
 <img src="assets\img\HERMITE.png" width="100%" height="100%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HERMITE_IVAN.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
+
 
 
 ```markdown
 METODO DE NEVILLE
 ```
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEVILLE.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEVILLE.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
+
 
 
 
