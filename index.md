@@ -67,6 +67,96 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## SISTEMA DE UN GRADO DE LIBERTAD
+---
+Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB.
+
+```markdown
+METODO DE BROYDEN
+```
+<p align="left">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-UN-GRADO-DE-LIBERTAD)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## SITEMAS DE ECUACIONES EN UNA VARIABLE
 ---
 Programas para la solucion de sistemas de ecuaciones en una variable
@@ -144,35 +234,6 @@ METODO DE PUNTO FIJO
 <p align="center">
 <img src="assets\img\PUNTOFIJO3.png" width="100%" height="100%">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
