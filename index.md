@@ -108,6 +108,19 @@ METODO DE LA SECANTE
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SECANTE.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+<p align="center">
+<img src="assets\img\SECANTE1.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\SECANTE2.png" width="100%" height="100%">
+</p>
+
+
+
+
+
+
+
 
 ```markdown
 METODO DE NEWTON RHAPSON
@@ -118,6 +131,21 @@ METODO DE NEWTON RHAPSON
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTON.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+<p align="center">
+<img src="assets\img\NEWTON1.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\NEWTON2.png" width="100%" height="100%">
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -131,6 +159,15 @@ METODO DE PUNTO FIJO
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PUNTO_FIJO.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
 
+<p align="center">
+<img src="assets\img\PUNTOFIJO1.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\PUNTOFIJO2.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\PUNTOFIJO3.png" width="100%" height="100%">
+</p>
 
 
 
