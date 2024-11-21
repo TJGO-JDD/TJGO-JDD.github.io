@@ -277,8 +277,10 @@ METODO DE PUNTO FIJO
 ```
 
 
+$$
+E = mc^2
+$$
 
-Esta es una ecuación en línea: \(E = mc^2\).
 
 
    
