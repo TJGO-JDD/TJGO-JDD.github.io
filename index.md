@@ -287,10 +287,30 @@ al reescribirlas como
 $$ 
 x = g(x)
 $$ 
+
 . El algoritmo es iterativo y comienza con una estimación inicial,
 
-$$ \(x_0\)$$ 
-, que se sustituye en $$ \(g(x)\)$$  para obtener $$ \(x_1\).$$  Este proceso se repite hasta que la secuencia converge al valor deseado. Es sencillo de implementar, pero su convergencia depende de la elección adecuada de la función $$ \(g(x)\)$$  y de la proximidad inicial al punto fijo.
+$$ 
+\(x_0\)
+$$ 
+
+, que se sustituye en 
+
+$$
+\(g(x)\)
+$$ 
+
+para obtener 
+
+$$ \(x_1\).
+
+$$  Este proceso se repite hasta que la secuencia converge al valor deseado. Es sencillo de implementar, pero su convergencia depende de la elección adecuada de la función 
+
+$$ 
+\(g(x)\)
+$$ 
+
+y de la proximidad inicial al punto fijo.
 
 
 
