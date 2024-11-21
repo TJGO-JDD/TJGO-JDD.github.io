@@ -67,6 +67,64 @@
 
 
 
+## SITEMAS DE ECUACIONES EN UNA VARIABLE
+---
+Programas para la solucion de sistemas de ecuaciones en una variable
+
+```markdown
+METODO DE BISECCIÓN
+```
+<p align="center">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BISECCION.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+
+<p align="center">
+<img src="assets\img\BISECCION1.eps" width="100%" height="100%">
+</p>
+
+
+
+```markdown
+METODO DE LA SECANTE
+```
+<p align="center">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SECANTE.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+
+```markdown
+METODO DE NEWTON RHAPSON
+```
+<p align="center">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTON.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+
+
+
+```markdown
+METODO DE PUNTO FIJO
+```
+<p align="center">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PUNTO_FIJO.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
+
+
+
+
+
+
+
 
 
 
