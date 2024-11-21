@@ -108,7 +108,7 @@ METODO DE BROYDEN
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_MB.pdf)
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)]([https://github.com/TJGO-JDD](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)) 
 
 
 
@@ -120,6 +120,6 @@ METODO DE NEWTON RAPHSON
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_NR PARA_3_VARIABLES.pdf)
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)]([https://github.com/TJGO-JDD](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)) 
 
 
