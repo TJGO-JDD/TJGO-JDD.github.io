@@ -82,8 +82,20 @@ METODO DE BISECCIÓN
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
 
 <p align="center">
-<img src="assets\img\BISECCION1.eps" width="100%" height="100%">
+<img src="assets\img\BISECCION4.png" width="100%" height="100%">
 </p>
+<p align="center">
+<img src="assets\img\BISECCION1.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\BISECCION2.png" width="100%" height="100%">
+</p>
+<p align="center">
+<img src="assets\img\BISECCION3.png" width="100%" height="100%">
+</p>
+
+
+
 
 
 
