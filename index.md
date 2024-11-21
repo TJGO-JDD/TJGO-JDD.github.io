@@ -232,16 +232,9 @@ METODO DE BISECCIÓN
 METODO DE LA SECANTE
 ```
 <p align="justify"><b>
-El método de la secante es una técnica iterativa para resolver ecuaciones no lineales de una sola variable. A diferencia del método de Newton-Raphson, no requiere el cálculo de la derivada de la función. En su lugar, utiliza una aproximación de la derivada basada en dos puntos anteriores de la función:
+El método de la secante es una técnica iterativa para resolver ecuaciones no lineales de una sola variable. A diferencia del método de Newton-Raphson, no requiere el cálculo de la derivada de la función. En su lugar, utiliza una aproximación de la derivada basada en dos puntos anteriores. Esto lo hace útil en casos donde la derivada es difícil de calcular, aunque generalmente su convergencia es más lenta que la del método de Newton-Raphson.
 </b></p>
 
-
-\[
-x_{n+1} = x_n - f(x_n) \frac{x_n - x_{n-1}}{f(x_n) - f(x_{n-1})}.
-\]
-<p align="justify"><b>
-Este método es útil cuando la derivada es difícil de calcular, aunque su convergencia es generalmente más lenta que la del método de Newton.
-</b></p>
 
 
 
@@ -278,6 +271,10 @@ METODO DE NEWTON RHAPSON
 ```markdown
 METODO DE PUNTO FIJO
 ```
+
+$$\hat{\mathbf{e}}_i \times \hat{\mathbf{e}}_j = \sum_{k=1}^{3}\epsilon_{ijk} \hat{\mathbf{e}}_k$$
+   
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
