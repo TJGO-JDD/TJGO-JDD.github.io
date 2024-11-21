@@ -95,6 +95,12 @@ Programas para la in terpolación y aproximación lineal realizados en Matlab.
 ```markdown
 METODO DE LAGRANGE
 ```
+
+El método de Lagrange es una técnica de interpolación polinómica que construye un único polinomio que pasa por un conjunto dado de puntos. Utiliza "polinomios base" para garantizar que cada punto dado contribuya a la construcción del polinomio final.
+Lleva el nombre de Joseph-Louis Lagrange (1736-1813), un matemático e ingeniero italiano-francés que desarrolló este método como parte de sus estudios sobre polinomios en el siglo XVIII.
+Popular en problemas de interpolación cuando los puntos son pocos y el polinomio resultante puede construirse explícitamente.
+
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -121,6 +127,11 @@ METODO DE LAGRANGE
 ```markdown
 METODO DE NEWTON
 ```
+Este método utiliza diferencias divididas para construir el polinomio de interpolación. Es particularmente eficiente porque se puede extender fácilmente si se añaden nuevos puntos, sin necesidad de recalcular todo el polinomio desde cero.
+Atribuido a Isaac Newton (1643-1727), quien fue pionero en el desarrollo del cálculo y los métodos numéricos. Newton aplicó este método en sus investigaciones de la mecánica celeste.
+Muy eficiente para grandes conjuntos de datos o cuando los puntos están distribuidos no uniformemente.
+
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -137,6 +148,12 @@ METODO DE NEWTON
 ```markdown
 METODO DE HERMITE
 ```
+
+El método de Hermite es un tipo de interpolación polinómica que no solo utiliza los valores de las funciones en ciertos puntos (como en Lagrange), sino también las derivadas de la función en esos puntos. Esto lo hace particularmente útil para situaciones donde la función original es suave y se conocen valores adicionales como pendientes.
+Este método lleva el nombre de Charles Hermite (1822-1901), un matemático francés que realizó importantes contribuciones al análisis, la teoría de números y las ecuaciones diferenciales.
+Ideal para interpolar datos que tienen restricciones adicionales, como información sobre tasas de cambio, derivadas o curvaturas.
+
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
@@ -144,9 +161,7 @@ METODO DE HERMITE
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HERMITE_IVAN.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 
-El método de Hermite es un tipo de interpolación polinómica que no solo utiliza los valores de las funciones en ciertos puntos (como en Lagrange), sino también las derivadas de la función en esos puntos. Esto lo hace particularmente útil para situaciones donde la función original es suave y se conocen valores adicionales como pendientes.
-Este método lleva el nombre de Charles Hermite (1822-1901), un matemático francés que realizó importantes contribuciones al análisis, la teoría de números y las ecuaciones diferenciales.
-Ideal para interpolar datos que tienen restricciones adicionales, como información sobre tasas de cambio, derivadas o curvaturas.
+
 
 <p align="center">
 <img src="assets\img\HERMITE.png" width="100%" height="100%">
@@ -157,6 +172,12 @@ Ideal para interpolar datos que tienen restricciones adicionales, como informaci
 ```markdown
 METODO DE NEVILLE
 ```
+
+El método de Neville es una técnica recursiva para encontrar valores interpolados. Construye el valor de la función en un punto deseado usando un esquema de tabla, basándose en una combinación de valores adyacentes.
+Este método es atribuido a Eric Harold Neville (1889-1961), un matemático inglés que trabajó en geometría y análisis numérico.
+Útil para interpolar de manera eficiente en un solo punto sin necesidad de construir el polinomio completo. Es especialmente adecuado para cálculos manuales o situaciones donde los datos pueden cambiar durante los cálculos.
+
+
 <p align="left">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
