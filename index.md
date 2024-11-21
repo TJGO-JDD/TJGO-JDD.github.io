@@ -103,11 +103,22 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 ```markdown
 METODO DE BROYDEN
 ```
+<p align="center">
+<img src="assets\img\matalab.png" width="5.6%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_MB.pdf)
+
+
+
 
 ```markdown
 METODO DE NEWTON RAPHSON
 ```
+<p align="center">
+<img src="assets\img\matalab.png" width="5.6%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_NR PARA_3_VARIABLES.pdf)
 
 
