@@ -276,7 +276,10 @@ METODO DE NEWTON RHAPSON
 METODO DE PUNTO FIJO
 ```
 
-fdgdfg $$ E = mc^2 $$
+fdgdfg 
+$$ 
+E = mc^2 
+$$
 
 
 
