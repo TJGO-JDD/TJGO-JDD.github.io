@@ -104,8 +104,8 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 METODO DE BROYDEN
 ```
 <p align="center">
-<img src="assets\img\matlab.png" width="100%" height="100%">
-<img src="assets\img\excel logo.png" width="100%" height="100%">
+<img src="assets\img\matlab.png" width="40%" height="40%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_MB.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)]([https://github.com/TJGO-JDD](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)) 
@@ -116,7 +116,7 @@ METODO DE BROYDEN
 METODO DE NEWTON RAPHSON
 ```
 <p align="center">
-<img src="assets\img\matlab.png" width="5.6%" height="10%">
+<img src="assets\img\matlab.png" width="40%" height="40%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_NR PARA_3_VARIABLES.pdf)
