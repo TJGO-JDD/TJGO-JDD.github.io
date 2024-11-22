@@ -84,8 +84,10 @@ Programas para la generación de calculos y graficas de lineas de influencia de 
 <img src="assets\img\github logo.png" width="6.35%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LineasDeInfluenciPython)  
+
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/LI.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LineasDeInfluenciPython)  
+
 <p align="center">
   <img src="assets\img\PG1.gif" width="100%" height="100%">
   <img src="assets\img\PG2.gif" width="100%" height="100%">
