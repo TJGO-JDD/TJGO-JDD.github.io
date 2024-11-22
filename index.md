@@ -120,6 +120,7 @@ Graficas de representación para un sistema de grado de libertad interactivo usa
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/LI.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-UN-GRADO-DE-LIBERTAD)  
 <p align="center">
 <img src="assets\img\MATLAB1.jpeg" width="100%" height="100%">
