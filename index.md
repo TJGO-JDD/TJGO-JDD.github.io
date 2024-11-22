@@ -93,6 +93,12 @@ Programas para la generación de calculos y graficas de lineas de influencia de 
   <img src="assets\img\PG4.gif" width="100%" height="100%">
   <img src="assets\img\PG5.gif" width="100%" height="100%">
   <img src="assets\img\PG6.gif" width="100%" height="100%">
+    <img src="assets\img\PG7.gif" width="100%" height="100%">
+  <img src="assets\img\PG8.gif" width="100%" height="100%">
+  <img src="assets\img\PG9.gif" width="100%" height="100%">
+  <img src="assets\img\PG10.gif" width="100%" height="100%">
+  <img src="assets\img\PG11.gif" width="100%" height="100%">
+  <img src="assets\img\PG12.gif" width="100%" height="100%">
 </p>
 
 
