@@ -70,6 +70,106 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## PROGRAMA PARA EL DISEÑO DE ZAPATAS
+---
+Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
+
+```markdown
+ZAPATAS AISLADAS
+```
+
+<p align="justify"><b>
+El 
+</b></p>
+
+<p align="center">
+  <img src="assets\img\ZAPATAAISLADA.gif" width="100%" height="100%">
+  <img src="assets\img\ZAP3.png" width="100%" height="100%">
+  <img src="assets\img\ZAP4.png" width="100%" height="100%">
+  <img src="assets\img\ZAP5.png" width="100%" height="100%">
+  <img src="assets\img\ZAP6.png" width="100%" height="100%">
+  <img src="assets\img\ZAP7.png" width="100%" height="100%">
+  <img src="assets\img\ZAP8.png" width="100%" height="100%">
+  <img src="assets\img\ZAP9.png" width="100%" height="100%">
+  <img src="assets\img\ZAP10.png" width="100%" height="100%">
+  <img src="assets\img\ZAP11.png" width="100%" height="100%">
+</p>
+
+
+```markdown
+ZAPATAS COMBINADAS
+```
+
+<p align="center">
+  <img src="assets\img\ZAPATACOMBINADA.gif" width="100%" height="100%">
+  <img src="assets\img\ZAP12.png" width="100%" height="100%">
+  <img src="assets\img\ZAP13.png" width="100%" height="100%">
+  <img src="assets\img\ZAP14.png" width="100%" height="100%">
+  <img src="assets\img\ZAP15.png" width="100%" height="100%">
+  <img src="assets\img\ZAP16.png" width="100%" height="100%">
+  <img src="assets\img\ZAP17.png" width="100%" height="100%">
+</p>
+
+
+```markdown
+ZAPATAS CONECTADAS
+```
+<p align="center">
+  <img src="assets\img\ZAPATACONECTADA.gif" width="100%" height="100%">
+  <img src="assets\img\ZAP18.png" width="100%" height="100%">
+  <img src="assets\img\ZAP19.png" width="100%" height="100%">
+  <img src="assets\img\ZAP20.png" width="100%" height="100%">
+</p>
+
+```markdown
+ZAPATAS PARA MUROS
+```
+<p align="center">
+  <img src="assets\img\ZAPATASMUROS.gif" width="100%" height="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## CALCULO DE LINEAS DE INFLUENCIA PARA N TRAMOS
 ---
 
