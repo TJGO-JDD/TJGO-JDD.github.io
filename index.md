@@ -94,10 +94,6 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
   <img src="assets\img\ZAP2.png" width="100%" height="100%">
 </p>
 
-```markdown
-ZAPATAS AISLADAS
-```
-
 <div class="cuadro">
     ZAPATAS AISLADAS
 </div>
@@ -122,9 +118,9 @@ El
 </p>
 
 
-```markdown
-ZAPATAS COMBINADAS
-```
+<div class="cuadro">
+    ZAPATAS COMBINADA
+</div>
 
 <p align="center">
   <img src="assets\img\ZAPATACOMBINADA.gif" width="100%" height="100%">
@@ -137,9 +133,10 @@ ZAPATAS COMBINADAS
 </p>
 
 
-```markdown
-ZAPATAS CONECTADAS
-```
+<div class="cuadro">
+    ZAPATAS CONECTADA
+</div>
+
 <p align="center">
   <img src="assets\img\ZAPATACONECTADA.gif" width="100%" height="100%">
   <img src="assets\img\ZAP18.png" width="100%" height="100%">
@@ -147,9 +144,10 @@ ZAPATAS CONECTADAS
   <img src="assets\img\ZAP20.png" width="100%" height="100%">
 </p>
 
-```markdown
-ZAPATAS PARA MUROS
-```
+<div class="cuadro">
+    ZAPATAS PARA MUROS
+</div>
+
 <p align="center">
   <img src="assets\img\ZAPATASMUROS.gif" width="100%" height="100%">
 </p>
