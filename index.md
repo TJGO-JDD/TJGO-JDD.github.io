@@ -98,6 +98,12 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 ZAPATAS AISLADAS
 ```
 
+<div class="cuadro">
+    ZAPATAS AISLADAS
+</div>
+
+
+
 <p align="justify"><b>
 El 
 </b></p>
