@@ -184,6 +184,7 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 
 
 <div class="spacer2"></div>
+<div class="spacer2"></div>
 ## LINEAS DE INFLUENCIA PARA N TRAMOS
 ---
 
@@ -227,7 +228,8 @@ Programas para la generación de calculos y graficas de lineas de influencia de 
 
 
 
-
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 ## SISTEMA DE UN GRADO DE LIBERTAD
 ---
 Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB, usando interfaces graficas.
@@ -249,13 +251,15 @@ Graficas de representación para un sistema de grado de libertad interactivo usa
 
 
 
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 ## INTERPOLACIÓN Y APROXIMACIÓN LINEAL
 ---
 Programas para la in terpolación y aproximación lineal realizados en Matlab.
 
-```markdown
-METODO DE LAGRANGE
-```
+<div class="cuadro">
+    METODO DE LAGRANGE
+</div>
 
 <p align="justify"><b>
 El método de Lagrange es una técnica de interpolación polinómica que construye un único polinomio que pasa por un conjunto dado de puntos. Utiliza "polinomios base" para garantizar que cada punto dado contribuya a la construcción del polinomio final.
@@ -287,10 +291,10 @@ Popular en problemas de interpolación cuando los puntos son pocos y el polinomi
 <img src="assets\img\LAGRANGE5.png" width="100%" height="100%">
 </p>
 
+<div class="cuadro">
+    METODO DE NEWTON
+</div>
 
-```markdown
-METODO DE NEWTON
-```
 
 <p align="justify"><b>
 Este método utiliza diferencias divididas para construir el polinomio de interpolación. Es particularmente eficiente porque se puede extender fácilmente si se añaden nuevos puntos, sin necesidad de recalcular todo el polinomio desde cero.
@@ -312,10 +316,11 @@ Muy eficiente para grandes conjuntos de datos o cuando los puntos están distrib
 </p>
 
 
+<div class="cuadro">
+    METODO DE HERMITE
+</div>
 
-```markdown
-METODO DE HERMITE
-```
+
 <p align="justify"><b>
 El método de Hermite es un tipo de interpolación polinómica que no solo utiliza los valores de las funciones en ciertos puntos (como en Lagrange), sino también las derivadas de la función en esos puntos. Esto lo hace particularmente útil para situaciones donde la función original es suave y se conocen valores adicionales como pendientes.
 Este método lleva el nombre de Charles Hermite (1822-1901), un matemático francés que realizó importantes contribuciones al análisis, la teoría de números y las ecuaciones diferenciales.
@@ -339,10 +344,11 @@ Ideal para interpolar datos que tienen restricciones adicionales, como informaci
 </p>
 
 
+<div class="cuadro">
+    METODO DE NEVILLE
+</div>
 
-```markdown
-METODO DE NEVILLE
-```
+
 <p align="justify"><b>
 El método de Neville es una técnica recursiva para encontrar valores interpolados. Construye el valor de la función en un punto deseado usando un esquema de tabla, basándose en una combinación de valores adyacentes.
 Este método es atribuido a Eric Harold Neville (1889-1961), un matemático inglés que trabajó en geometría y análisis numérico.
@@ -361,15 +367,16 @@ Este método es atribuido a Eric Harold Neville (1889-1961), un matemático ingl
 
 
 
-
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 ## SITEMAS DE ECUACIONES EN UNA VARIABLE
 ---
 Programas para la solucion de sistemas de ecuaciones en una variable
 
 
-```markdown
-METODO DE BISECCIÓN
-```
+<div class="cuadro">
+    METODO DE BISECCIÓN
+</div>
 
 El método de bisección es una técnica simple y robusta para encontrar raíces de funciones continuas. Se basa en el teorema del valor intermedio, que establece que si 
 $$
@@ -409,9 +416,9 @@ se actualiza el intervalo para acercarse a la raíz. Aunque es más lento que ot
 <img src="assets\img\BISECCION3.png" width="100%" height="100%">
 </p>
 
-```markdown
-METODO DE LA SECANTE
-```
+<div class="cuadro">
+    METODO DE LA SECANTE
+</div>
 <p align="justify"><b>
 El método de la secante es una técnica iterativa para resolver ecuaciones no lineales de una sola variable. A diferencia del método de Newton-Raphson, no requiere el cálculo de la derivada de la función. En su lugar, utiliza una aproximación de la derivada basada en dos puntos anteriores. Esto lo hace útil en casos donde la derivada es difícil de calcular, aunque generalmente su convergencia es más lenta que la del método de Newton-Raphson.
 </b></p>
@@ -433,9 +440,10 @@ El método de la secante es una técnica iterativa para resolver ecuaciones no l
 <img src="assets\img\SECANTE2.png" width="100%" height="100%">
 </p>
 
-```markdown
-METODO DE NEWTON RHAPSON
-```
+<div class="cuadro">
+    METODO DE NEWTON RHAPSON
+</div>
+
 
 El método de Newton-Raphson es una técnica iterativa de rápida convergencia para resolver ecuaciones no lineales. Utiliza una aproximación lineal de la función basada en su derivada. En cada iteración, se calcula un nuevo valor de 
 $$
@@ -467,9 +475,9 @@ y una buena aproximación inicial para garantizar la convergencia. Este método 
 <img src="assets\img\NEWTON2.png" width="100%" height="100%">
 </p>
 
-```markdown
-METODO DE PUNTO FIJO
-```
+<div class="cuadro">
+    METODO DE PUNTO FIJO
+</div>
 
 El método del punto fijo se utiliza para resolver ecuaciones de la forma 
 $$ 
@@ -521,15 +529,17 @@ y de la proximidad inicial al punto fijo.
 
 
 
-
-
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 ## SITEMAS DE ECUACIONES NO LINEALES
 ---
 Programas para la solucion de sistemas de ecuaciones no lineales
 
-```markdown
-METODO DE BROYDEN
-```
+<div class="cuadro">
+    METODO DE BROYDEN
+</div>
+
+
 <p align="justify"><b>
 El método de Broyden es un enfoque cuasi-Newton para resolver sistemas de ecuaciones no lineales. Este método elimina la necesidad de calcular el Jacobiano exacto en cada iteración, reemplazándolo con una aproximación que se actualiza a medida que avanza la solución. Esto lo hace ideal para sistemas grandes o cuando el cálculo del Jacobiano es complejo. Aunque su convergencia es más lenta que el método de Newton-Raphson, es computacionalmente más eficiente.
 </b></p>
@@ -542,10 +552,11 @@ El método de Broyden es un enfoque cuasi-Newton para resolver sistemas de ecuac
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
 
 
+<div class="cuadro">
+    METODO DE NEWTON RAPHSON
+</div>
 
-```markdown
-METODO DE NEWTON RAPHSON
-```
+
 <p align="justify"><b>
 El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado para resolver sistemas de ecuaciones no lineales. Se basa en linealizar el sistema mediante una expansión de Taylor y resolver las ecuaciones lineales resultantes en cada iteración. Es conocido por su rápida convergencia cuando se encuentra cerca de la solución exacta, pero requiere el cálculo del Jacobiano, lo cual puede ser computacionalmente costoso para problemas complejos.
 </b></p>
