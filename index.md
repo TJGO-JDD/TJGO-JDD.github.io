@@ -100,9 +100,8 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 
 
 
-<p align="justify"><b>
-El 
-</b></p>
+<div class="spacer"></div>
+<div class="spacer"></div>
 
 <p align="center">
   <img src="assets\img\ZAPATAAISLADA.gif" width="100%" height="100%">
