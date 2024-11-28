@@ -80,11 +80,9 @@ Script para la generación de reportes automaticos con la interoperabilidad entr
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\latex logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-
-[![GitHub](https://github.com/TJGO-JDD/GENERACION-DE-REPORTES-AUTOMATICOS-PYTHON---LATEX) 
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/GENERACION-DE-REPORTES-AUTOMATICOS-PYTHON---LATEX)  
 
 
 
@@ -95,16 +93,19 @@ Script para la generación de reportes automaticos con la interoperabilidad entr
 
 
 
+
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 
 ## PROGRAMA PARA EL DISEÑO DE ZAPATAS
 ---
 Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 
 <p align="center">
-<img src="assets\img\HPPRIME.png" width="5.6%" height="10%">
+<img src="assets\img\HPPRIME.png" width="10%" height="15%">
 </p>
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME)  
 
-[![GitHub](https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME)  
 
 <p align="center">
   <img src="assets\img\ZAP1.png" width="100%" height="100%">
