@@ -94,16 +94,14 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
   <img src="assets\img\ZAP1.png" width="100%" height="100%">
   <img src="assets\img\ZAP2.png" width="100%" height="100%">
 </p>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
+<div class="spacer2"></div>
 
 
 <div class="cuadro">
     ZAPATAS AISLADAS
 </div>
-<div class="spacer2"></div>
-
+<div class="spacer"></div>
+<div class="spacer"></div>
 <p align="center">
   <img src="assets\img\ZAPATAAISLADA.gif" width="100%" height="100%">
   <img src="assets\img\ZAP3.png" width="100%" height="100%">
@@ -116,12 +114,14 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
   <img src="assets\img\ZAP10.png" width="100%" height="100%">
   <img src="assets\img\ZAP11.png" width="100%" height="100%">
 </p>
-
 <div class="spacer2"></div>
+
+
 <div class="cuadro">
     ZAPATAS COMBINADA
 </div>
-
+<div class="spacer"></div>
+<div class="spacer"></div>
 <p align="center">
   <img src="assets\img\ZAPATACOMBINADA.gif" width="100%" height="100%">
   <img src="assets\img\ZAP12.png" width="100%" height="100%">
@@ -131,23 +131,28 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
   <img src="assets\img\ZAP16.png" width="100%" height="100%">
   <img src="assets\img\ZAP17.png" width="100%" height="100%">
 </p>
+<div class="spacer2"></div>
 
 
 <div class="cuadro">
     ZAPATAS CONECTADA
 </div>
-
+<div class="spacer"></div>
+<div class="spacer"></div>
 <p align="center">
   <img src="assets\img\ZAPATACONECTADA.gif" width="100%" height="100%">
   <img src="assets\img\ZAP18.png" width="100%" height="100%">
   <img src="assets\img\ZAP19.png" width="100%" height="100%">
   <img src="assets\img\ZAP20.png" width="100%" height="100%">
 </p>
+<div class="spacer2"></div>
+
 
 <div class="cuadro">
     ZAPATAS PARA MUROS
 </div>
-
+<div class="spacer"></div>
+<div class="spacer"></div>
 <p align="center">
   <img src="assets\img\ZAPATASMUROS.gif" width="100%" height="100%">
 </p>
