@@ -81,6 +81,7 @@ Script para la generación de reportes automaticos con la interoperabilidad entr
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMS.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/GENERACION-DE-REPORTES-AUTOMATICOS-PYTHON---LATEX)  
 <div class="spacer"></div>
 <div class="spacer"></div>
