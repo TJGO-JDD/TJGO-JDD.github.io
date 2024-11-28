@@ -207,8 +207,6 @@ Programas para la generación de calculos y graficas de lineas de influencia de 
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\github logo.png" width="6.35%" height="10%">
-<img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/LI.pdf)
