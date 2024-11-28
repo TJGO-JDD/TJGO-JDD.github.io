@@ -77,7 +77,6 @@
 Script para la generación de reportes automaticos con la interoperabilidad entre PYTHON - LATEX.
 
 <p align="center">
-<img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
