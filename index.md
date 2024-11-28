@@ -63,7 +63,7 @@
 
 
 
-## REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX=
+## REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)
 ---
 Script para la generación de reportes automaticos para historial de precipitaciones aplicado en hidrologia analizando la confiabilidad de las distribuciones teoricas verificadas con la distribucion de WEITBULL, verificado con los programas aplicados a la hidrologia de Hidronomon e Hidroesta.
 
