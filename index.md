@@ -97,7 +97,8 @@ Script para la generación de reportes automaticos para historial de precipitaci
 
 
 
-
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 
 ## GENERACIÓN DE REPORTES PYTHON - LATEX (PLANTILLA)
 ---
