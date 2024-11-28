@@ -98,10 +98,8 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
     ZAPATAS AISLADAS
 </div>
 
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
-<div class="spacer"></div>
+<div class="spacer2"></div>
+
 <p align="center">
   <img src="assets\img\ZAPATAAISLADA.gif" width="100%" height="100%">
   <img src="assets\img\ZAP3.png" width="100%" height="100%">
