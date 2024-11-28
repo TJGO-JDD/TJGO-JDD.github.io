@@ -28,3 +28,9 @@ body {
       height: 5px;
       display: block;
     }
+
+
+.cuadro {
+    border: 2px solid black;
+    padding: 10px;  /* Agrega un poco de espacio dentro del cuadro */
+}
