@@ -56,7 +56,8 @@
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 
 
 
