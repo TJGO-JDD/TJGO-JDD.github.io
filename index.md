@@ -183,8 +183,8 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 
 
 
-
-## CALCULO DE LINEAS DE INFLUENCIA PARA N TRAMOS
+<div class="spacer2"></div>
+## LINEAS DE INFLUENCIA PARA N TRAMOS
 ---
 
 <p align="justify"><b>
