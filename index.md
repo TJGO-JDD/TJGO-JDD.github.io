@@ -72,8 +72,19 @@
 
 
 
+## GENERACIÓN DE REPORTES PYTHON - LATEX (PLANTILLA)
+---
+Script para la generación de reportes automaticos con la interoperabilidad entre PYTHON - LATEX.
 
-
+<p align="center">
+  <img src="assets\img\ZAP1.png" width="100%" height="100%">
+  <img src="assets\img\ZAP2.png" width="100%" height="100%">
+</p>
+<div class="spacer2"></div>
+<p align="center">
+<img src="assets\img\logo matlab.png" width="7.5%" height="10%">
+<img src="assets\img\excel logo.png" width="6.5%" height="10%">
+</p>
 
 
 
