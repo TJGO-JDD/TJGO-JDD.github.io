@@ -102,6 +102,14 @@ Script para la generación de reportes automaticos con la interoperabilidad entr
 Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 
 <p align="center">
+<img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+</p>
+
+[![GitHub](https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME)  
+
+<p align="center">
   <img src="assets\img\ZAP1.png" width="100%" height="100%">
   <img src="assets\img\ZAP2.png" width="100%" height="100%">
 </p>
