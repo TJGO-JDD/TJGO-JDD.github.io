@@ -83,7 +83,14 @@ Script para la generación de reportes automaticos con la interoperabilidad entr
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/GENERACION-DE-REPORTES-AUTOMATICOS-PYTHON---LATEX)  
-
+<div class="spacer"></div>
+<div class="spacer"></div>
+<p align="center">
+  <img src="assets\img\BMAUTO1.png" width="100%" height="100%">
+  <img src="assets\img\BMAUTO2.png" width="100%" height="100%">
+  <img src="assets\img\BMAUTO3.png" width="100%" height="100%">
+  <img src="assets\img\BMAUTO4.png" width="100%" height="100%">
+</p>
 
 
 
