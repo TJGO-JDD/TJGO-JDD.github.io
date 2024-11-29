@@ -70,6 +70,7 @@
 ## REPORTE AUTOMATICO MEMORIA DE DISEÑO GEOMETRICO DG-2018 (PYTHON LATEX)
 ---
 Script para la generación de reportes de memoria de diseño geometrico de carreteras con un documento dinamico utilizando la interacción PYTHON - LATEX.
+
 <span style="color:red;"><b>Proyecto en desarrollo...</b></span>
 
 <p align="center">
