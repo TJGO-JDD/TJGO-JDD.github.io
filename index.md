@@ -1,6 +1,11 @@
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
 </script>
+<audio controls>
+  <source src="ruta/a/tu/archivo.mp3" type="audio/mp3">
+  Tu navegador no soporta el elemento de audio.
+</audio>
+<audio controls autoplay>
 
 <html lang="es">
 <head>
