@@ -63,9 +63,44 @@
 <div class="spacer2"></div>
 
 
+## REPORTE AUTOMATICO MEMORIA DE DISEÑO GEOMETRICO DG-2018 (PYTHON LATEX)
+---
+Script para la generación de reportes de memoria de diseño geometrico de carreteras con un documento dinamico utilizando la interacción PYTHON - LATEX.
+
+<p align="center">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DE.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX)  
+<div class="spacer"></div>
+<div class="spacer"></div>
+<p align="center">
+  <img src="assets\img\DE.png" width="100%" height="100%">
+  <img src="assets\img\DE_1.png" width="100%" height="100%">
+  <img src="assets\img\DE_2.png" width="100%" height="100%">
+  <img src="assets\img\DE_3.png" width="100%" height="100%">
+  <img src="assets\img\DE_4.png" width="100%" height="100%">
+  <img src="assets\img\DE_5.png" width="100%" height="100%">
+  <img src="assets\img\DE_6.png" width="100%" height="100%">
+  <img src="assets\img\DE_7.png" width="100%" height="100%">
+  <img src="assets\img\DE_8.png" width="100%" height="100%">
+</p>
 
 
 
+
+
+
+
+
+
+
+
+
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 ## REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)
 ---
 Script para la generación de reportes automaticos para historial de precipitaciones aplicado en hidrologia analizando la confiabilidad de las distribuciones teoricas verificadas con la distribucion de WEITBULL, verificado con los programas aplicados a la hidrologia de Hidronomon e Hidroesta.
