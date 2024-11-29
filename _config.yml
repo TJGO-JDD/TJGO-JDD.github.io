@@ -18,14 +18,3 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-# Social Media Buttons Configuration
-social_buttons:
-  facebook: "https://www.facebook.com/nolivan.juandediosrojas/"
-  instagram: "https://www.instagram.com/ivan_jdd_tjgo/"
-  x: "https://x.com/ivanjuandedios1"
-  github: "https://github.com/TJGO-JDD"
-  linkedin: "https://www.linkedin.com/in/%C3%B1ol-ivan-juan-de-dios-rojas-600b36273/"
-  youtube: "https://www.youtube.com/@nolivanjuandediosrojas7820"
-  tiktok: "https://www.tiktok.com/@ivanjddhood"
-  whatsapp: "https://wa.me/51917726087?text=Deseo%20informaci%C3%B3n%20sobre!%20...."
-  spotify: "https://open.spotify.com/user/21crxkbqieguhc6ogdkcf4hey?si=nde5_d97ShukDvxHakioQQ"
