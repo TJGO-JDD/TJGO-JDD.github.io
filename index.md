@@ -1,11 +1,7 @@
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
 </script>
-<audio controls>
-  <source src="/assets/AUDIO/BBB.mp3" type="audio/mp3">
-  Tu navegador no soporta el elemento de audio.
-</audio>
-<audio controls autoplay>
+
 
 <html lang="es">
 <head>
@@ -623,3 +619,8 @@ El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
 
 
+
+<audio controls>
+  <source src="/assets/AUDIO/BBB.mp3" type="audio/mp3">
+  Tu navegador no soporta el elemento de audio.
+</audio>
