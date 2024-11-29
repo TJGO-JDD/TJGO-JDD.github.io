@@ -18,4 +18,4 @@ theme: jekyll-theme-minimal
 
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+math_engine: mathjax
