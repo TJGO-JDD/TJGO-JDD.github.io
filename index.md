@@ -621,8 +621,8 @@ El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
 
 
-<audio controls autoplay muted>
+<audio autoplay muted>
   <source src="/assets/AUDIO/BBB.mp3" type="audio/mp3">
-  Tu navegador no soporta el elemento de audio.
 </audio>
+
 
