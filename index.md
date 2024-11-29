@@ -620,6 +620,6 @@ El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado
 
 
 
-<udio controls autoplay>
+<audio controls autoplay>
   <source src="/assets/AUDIO/BBB.mp3" type="audio/mp3">
 </audio>
