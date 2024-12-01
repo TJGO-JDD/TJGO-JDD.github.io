@@ -16,7 +16,7 @@
   <div class="spacer"></div>
   <hr>
   <div class="spacer"></div>
-  <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB |  $ E \cdot m^3 $  </h2>
+  <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB |  4 8 15 16 23 42  </h2>
   <div class="spacer"></div>
   <hr>
 </body>
@@ -69,7 +69,12 @@
 
 ## REPORTE AUTOMATICO MEMORIA DE DISEÑO GEOMETRICO DG-2018 (PYTHON LATEX)
 ---
+<div class="spacer3"></div>
+
+<p align="justify"><b>
 El script para la generación de reportes de memoria de diseño geométrico de carreteras mediante la interacción Python-LaTeX permite automatizar la creación de documentos técnicos detallados, en los que Python se encarga de realizar los cálculos y análisis necesarios del diseño (como curvas, pendientes, alineaciones, y secciones transversales), mientras que LaTeX se utiliza para generar un reporte profesional y bien estructurado, incluyendo fórmulas matemáticas, tablas, gráficos y texto explicativo. Este enfoque facilita la creación dinámica de documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el diseño de carreteras.
+</b></p>
+
 
 
 <span style="color:red;"><b>Proyecto en desarrollo...</b></span>
@@ -104,8 +109,12 @@ El script para la generación de reportes de memoria de diseño geométrico de c
 <div class="spacer2"></div>
 ## REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)
 ---
+<div class="spacer3"></div>
 
+<p align="justify"><b>
 El script para la generación de reportes automáticos de historial de precipitaciones aplicado en hidrología permite analizar la confiabilidad de las distribuciones teóricas de precipitación mediante su verificación con la distribución de Weibull. El script automatiza la extracción y análisis de datos históricos de precipitaciones, compara los resultados con las distribuciones probabilísticas teóricas, y valida los resultados utilizando programas especializados en hidrología como Hidronomon e Hidroesta. Este enfoque proporciona un reporte técnico completo, con gráficos, tablas y análisis estadísticos, facilitando la evaluación de la adecuación de las distribuciones a los datos reales, optimizando los estudios hidrológicos y la toma de decisiones.
+</b></p>
+
 
 
 
@@ -144,8 +153,12 @@ El script para la generación de reportes automáticos de historial de precipita
 
 ## GENERACIÓN DE REPORTES PYTHON - LATEX (PLANTILLA)
 ---
+<div class="spacer3"></div>
 
+<p align="justify"><b>
 El script para la generación de reportes automáticos con interoperabilidad entre Python y LaTeX permite automatizar la creación de documentos técnicos de manera flexible y eficiente. Originalmente utilizado para generar fichas técnicas de sistemas como BMS (Building Management Systems) y EPRO (Equipment Performance and Reliability Optimization), este enfoque puede generalizarse para cualquier tipo de reporte técnico. Python se encarga de procesar y analizar datos, realizar cálculos complejos o generar gráficos, mientras que LaTeX se utiliza para estructurar y formatear el documento final, incluyendo texto explicativo, tablas, ecuaciones y gráficos. Este sistema permite la creación de reportes personalizados y actualizados dinámicamente, mejorando la productividad y consistencia en la generación de documentos técnicos en diversas áreas, como ingeniería, investigación y gestión de proyectos.
+</b></p>
+
 
 
 <p align="center">
