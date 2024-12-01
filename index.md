@@ -16,7 +16,11 @@
   <div class="spacer"></div>
   <hr>
   <div class="spacer"></div>
-  <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB | TJGO</h2>
+  <h2 class="subtitle">TJGO INFRATEC | JUAN DE DIOS GEOLAB | 
+    $$ 
+    E \cdot m^3 
+    $$
+  </h2>
   <div class="spacer"></div>
   <hr>
 </body>
