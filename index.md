@@ -326,7 +326,12 @@ Los programas para la generación de cálculos y gráficas de líneas de influen
 <div class="spacer2"></div>
 ## SISTEMA DE UN GRADO DE LIBERTAD
 ---
+<div class="spacer3"></div>
+
+<p align="justify"><b>
 Las gráficas de representación para un sistema de grado de libertad interactivo usando MATLAB permiten simular y visualizar el comportamiento dinámico de sistemas mecánicos o estructurales con un solo grado de libertad. Mediante el uso de interfaces gráficas de usuario (GUI), se puede interactuar de manera intuitiva con el sistema, ajustando parámetros como la masa, rigidez, amortiguamiento y excitación para observar cómo afectan a la respuesta dinámica. MATLAB facilita la creación de estas interfaces, donde el usuario puede modificar condiciones iniciales o fuerzas aplicadas, generando en tiempo real gráficas de desplazamientos, velocidades y aceleraciones. Este enfoque interactivo mejora la comprensión del comportamiento del sistema y facilita la enseñanza, el análisis y la optimización en proyectos de ingeniería y física aplicada.
+</b></p>
+
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
