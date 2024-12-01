@@ -178,7 +178,12 @@ El script para la generación de reportes automáticos con interoperabilidad ent
 
 ## PROGRAMA PARA EL DISEÑO DE ZAPATAS
 ---
+<div class="spacer3"></div>
+
+<p align="justify"><b>
 Los programas para el diseño y detallado de zapatas en la calculadora HP Prime permiten realizar cálculos estructurales eficientes y detallados para el diseño de zapatas en proyectos de ingeniería civil. Estos programas integran las fórmulas y métodos de diseño, como la distribución de esfuerzos, las capacidades portantes del suelo, y las dimensiones de la zapata, facilitando el cálculo automático de los parámetros necesarios para garantizar la seguridad y estabilidad de las fundaciones. Utilizando la calculadora HP Prime, los ingenieros pueden realizar estos cálculos de manera rápida, precisa y sin necesidad de software especializado, optimizando los tiempos de trabajo y asegurando el cumplimiento de las normativas de diseño.
+</b></p>
+
 
 
 
@@ -285,7 +290,12 @@ Los programas para el diseño y detallado de zapatas en la calculadora HP Prime 
 <div class="spacer2"></div>
 ## LINEAS DE INFLUENCIA PARA N TRAMOS
 ---
+<div class="spacer3"></div>
+
+<p align="justify"><b>
 Los programas para la generación de cálculos y gráficas de líneas de influencia de momentos, cortantes y reacciones para múltiples tramos permiten analizar el comportamiento estructural de vigas o puentes sometidos a cargas variables. Estos programas calculan de manera automática los momentos flectores, esfuerzos cortantes y reacciones en los apoyos para cada tramo de la estructura, generando gráficas que ilustran cómo varían estas magnitudes en función de la posición de la carga. Este análisis es esencial para optimizar el diseño estructural y garantizar que la estructura responda adecuadamente a las cargas aplicadas. Además, la visualización gráfica de las líneas de influencia facilita la interpretación de los resultados y mejora la toma de decisiones en el diseño y evaluación de proyectos de ingeniería civil.
+</b></p>
+
 
 
 <p align="center">
