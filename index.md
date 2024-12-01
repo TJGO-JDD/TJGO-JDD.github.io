@@ -69,7 +69,7 @@
 
 ## REPORTE AUTOMATICO MEMORIA DE DISEÑO GEOMETRICO DG-2018 (PYTHON LATEX)
 ---
-Script para la generación de reportes de memoria de diseño geometrico de carreteras con un documento dinamico utilizando la interacción PYTHON - LATEX.
+El script para la generación de reportes de memoria de diseño geométrico de carreteras mediante la interacción Python-LaTeX permite automatizar la creación de documentos técnicos detallados, en los que Python se encarga de realizar los cálculos y análisis necesarios del diseño (como curvas, pendientes, alineaciones, y secciones transversales), mientras que LaTeX se utiliza para generar un reporte profesional y bien estructurado, incluyendo fórmulas matemáticas, tablas, gráficos y texto explicativo. Este enfoque facilita la creación dinámica de documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el diseño de carreteras.
 
 <span style="color:red;"><b>Proyecto en desarrollo...</b></span>
 
@@ -103,7 +103,7 @@ Script para la generación de reportes de memoria de diseño geometrico de carre
 <div class="spacer2"></div>
 ## REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)
 ---
-Script para la generación de reportes automaticos para historial de precipitaciones aplicado en hidrologia analizando la confiabilidad de las distribuciones teoricas verificadas con la distribucion de WEITBULL, verificado con los programas aplicados a la hidrologia de Hidronomon e Hidroesta.
+El script para la generación de reportes automáticos de historial de precipitaciones aplicado en hidrología permite analizar la confiabilidad de las distribuciones teóricas de precipitación mediante su verificación con la distribución de Weibull. El script automatiza la extracción y análisis de datos históricos de precipitaciones, compara los resultados con las distribuciones probabilísticas teóricas, y valida los resultados utilizando programas especializados en hidrología como Hidronomon e Hidroesta. Este enfoque proporciona un reporte técnico completo, con gráficos, tablas y análisis estadísticos, facilitando la evaluación de la adecuación de las distribuciones a los datos reales, optimizando los estudios hidrológicos y la toma de decisiones.
 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
@@ -140,7 +140,7 @@ Script para la generación de reportes automaticos para historial de precipitaci
 
 ## GENERACIÓN DE REPORTES PYTHON - LATEX (PLANTILLA)
 ---
-Script para la generación de reportes automaticos con la interoperabilidad entre PYTHON - LATEX.
+El script para la generación de reportes automáticos con interoperabilidad entre Python y LaTeX permite automatizar la creación de documentos técnicos de manera flexible y eficiente. Originalmente utilizado para generar fichas técnicas de sistemas como BMS (Building Management Systems) y EPRO (Equipment Performance and Reliability Optimization), este enfoque puede generalizarse para cualquier tipo de reporte técnico. Python se encarga de procesar y analizar datos, realizar cálculos complejos o generar gráficos, mientras que LaTeX se utiliza para estructurar y formatear el documento final, incluyendo texto explicativo, tablas, ecuaciones y gráficos. Este sistema permite la creación de reportes personalizados y actualizados dinámicamente, mejorando la productividad y consistencia en la generación de documentos técnicos en diversas áreas, como ingeniería, investigación y gestión de proyectos.
 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
@@ -172,7 +172,7 @@ Script para la generación de reportes automaticos con la interoperabilidad entr
 
 ## PROGRAMA PARA EL DISEÑO DE ZAPATAS
 ---
-Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
+Los programas para el diseño y detallado de zapatas en la calculadora HP Prime permiten realizar cálculos estructurales eficientes y detallados para el diseño de zapatas en proyectos de ingeniería civil. Estos programas integran las fórmulas y métodos de diseño, como la distribución de esfuerzos, las capacidades portantes del suelo, y las dimensiones de la zapata, facilitando el cálculo automático de los parámetros necesarios para garantizar la seguridad y estabilidad de las fundaciones. Utilizando la calculadora HP Prime, los ingenieros pueden realizar estos cálculos de manera rápida, precisa y sin necesidad de software especializado, optimizando los tiempos de trabajo y asegurando el cumplimiento de las normativas de diseño.
 
 <p align="center">
 <img src="assets\img\HPPRIME.png" width="10%" height="15%">
@@ -279,7 +279,7 @@ Programas para el diseño y el detallado de zapatas el la calculadora hp prime.
 ---
 
 <p align="justify"><b>
-Programas para la generación de calculos y graficas de lineas de influencia de momentos, cortantes y reacciones para n tramos.
+Los programas para la generación de cálculos y gráficas de líneas de influencia de momentos, cortantes y reacciones para múltiples tramos permiten analizar el comportamiento estructural de vigas o puentes sometidos a cargas variables. Estos programas calculan de manera automática los momentos flectores, esfuerzos cortantes y reacciones en los apoyos para cada tramo de la estructura, generando gráficas que ilustran cómo varían estas magnitudes en función de la posición de la carga. Este análisis es esencial para optimizar el diseño estructural y garantizar que la estructura responda adecuadamente a las cargas aplicadas. Además, la visualización gráfica de las líneas de influencia facilita la interpretación de los resultados y mejora la toma de decisiones en el diseño y evaluación de proyectos de ingeniería civil.
 </b></p>
 
 <p align="center">
@@ -320,7 +320,7 @@ Programas para la generación de calculos y graficas de lineas de influencia de 
 <div class="spacer2"></div>
 ## SISTEMA DE UN GRADO DE LIBERTAD
 ---
-Graficas de representación para un sistema de grado de libertad interactivo usando MATLAB, usando interfaces graficas.
+Las gráficas de representación para un sistema de grado de libertad interactivo usando MATLAB permiten simular y visualizar el comportamiento dinámico de sistemas mecánicos o estructurales con un solo grado de libertad. Mediante el uso de interfaces gráficas de usuario (GUI), se puede interactuar de manera intuitiva con el sistema, ajustando parámetros como la masa, rigidez, amortiguamiento y excitación para observar cómo afectan a la respuesta dinámica. MATLAB facilita la creación de estas interfaces, donde el usuario puede modificar condiciones iniciales o fuerzas aplicadas, generando en tiempo real gráficas de desplazamientos, velocidades y aceleraciones. Este enfoque interactivo mejora la comprensión del comportamiento del sistema y facilita la enseñanza, el análisis y la optimización en proyectos de ingeniería y física aplicada.
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
