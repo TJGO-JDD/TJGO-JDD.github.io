@@ -24,7 +24,7 @@
 <div class="spacer"></div>
 <div style="text-align: center;">
   <div style="display: inline-block;">
-    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2024 Todos los derechos reservados. </span>
+    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2025 Todos los derechos reservados. </span>
     </div>
   <div class="spacer"></div>
 </div>
