@@ -34,7 +34,7 @@
 [![X](https://img.shields.io/badge/X--blue?logo=X&logoColor=white)](https://x.com/ivanjuandedios1)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%C3%B1ol-ivan-juan-de-dios-rojas-600b36273/)
-[![YouTube](https://img.shields.io/badge/YouTube--red?logo=YouTube&logoColor=white)](https://www.youtube.com/@nolivanjuandediosrojas7820)
+[![YouTube](https://img.shields.io/badge/YouTube--red?logo=YouTube&logoColor=white)](https://www.youtube.com/@TJGO-JDD)
 [![TikTok](https://img.shields.io/badge/TikTok--black?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ivanjddhood)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp--green?logo=whatsapp&logoColor=white)](https://wa.me/51917726087?text=Deseo%20informaci%C3%B3n%20sobre!%20....)
 [![Escucha en Spotify](https://img.shields.io/badge/Spotify--black?logo=Spotify&logoColor=white)](https://open.spotify.com/user/21crxkbqieguhc6ogdkcf4hey?si=nde5_d97ShukDvxHakioQQ)
