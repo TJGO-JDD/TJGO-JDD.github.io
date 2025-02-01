@@ -63,7 +63,46 @@
 <div class="spacer2"></div>
 
 
+## REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1
+---
+<div class="spacer3"></div>
 
+<p align="justify"><b>
+El script para la generación de reportes de memoria de diseño geométrico de carreteras mediante la interacción Python-LaTeX permite automatizar la creación de documentos técnicos detallados, en los que Python se encarga de realizar los cálculos y análisis necesarios del diseño (como curvas, pendientes, alineaciones, y secciones transversales), mientras que LaTeX se utiliza para generar un reporte profesional y bien estructurado, incluyendo fórmulas matemáticas, tablas, gráficos y texto explicativo. Este enfoque facilita la creación dinámica de documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el diseño de carreteras.
+</b></p>
+
+
+
+<span style="color:red;"><b>Proyecto en desarrollo...</b></span>
+
+<p align="center">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DG2018.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LATEX-DG-2018-)  
+<div class="spacer"></div>
+<div class="spacer"></div>
+<p align="center">
+  <img src="assets\img\DG1.png" width="100%" height="100%">
+  <img src="assets\img\DG2.png" width="100%" height="100%">
+  <img src="assets\img\DG3.png" width="100%" height="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="spacer2"></div>
+<div class="spacer2"></div>
 
 
 
