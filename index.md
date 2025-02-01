@@ -65,16 +65,11 @@
 
 ## REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1
 ---
-<div class="spacer3"></div> <p align="justify"><b> El programa para la **generación automática de reportes de estudio de tráfico y cálculo de ESAL** mediante la interacción **Python-LaTeX** ofrece varias características clave:
-Automatización de cálculos: Python realiza los cálculos necesarios relacionados con el tráfico vehicular, la proyección de demandas, los factores de corrección, la tasa de crecimiento regional y el cálculo del ESAL.
-Generación dinámica de reportes: LaTeX se utiliza para crear un reporte detallado, profesional y bien estructurado, que incluye:
-Fórmulas matemáticas
-Tablas de datos
-Gráficos dinámicos
-Texto explicativo
-Este enfoque permite crear documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el análisis de tráfico y la evaluación de los efectos del tránsito en las infraestructuras viales.
+<div class="spacer3"></div>
 
-Con TRAFFIX.v1, es posible gestionar estudios viales y calcular el impacto del tránsito sobre las carreteras de manera automatizada, lo que resulta en memorias de diseño más rápidas y exactas para el análisis y la planificación vial. </b></p>
+<p align="justify"><b>
+El script para la generación de reportes de memoria de diseño geométrico de carreteras mediante la interacción Python-LaTeX permite automatizar la creación de documentos técnicos detallados, en los que Python se encarga de realizar los cálculos y análisis necesarios del diseño (como curvas, pendientes, alineaciones, y secciones transversales), mientras que LaTeX se utiliza para generar un reporte profesional y bien estructurado, incluyendo fórmulas matemáticas, tablas, gráficos y texto explicativo. Este enfoque facilita la creación dinámica de documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el diseño de carreteras.
+</b></p>
 
 
 
