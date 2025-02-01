@@ -73,7 +73,7 @@ Este programa ha sido diseñado para gestionar la información sobre tráfico ve
 
 <p align="justify"><b>Características destacadas:</b></p>
 
-<ul>
+<ul style="text-align: left;">
   <li>Interfaz amigable y fácil de usar.</li>
   <li>Carga de datos de conteo vehicular según el ANEXO 5 FICHA ESTÁNDAR emitido por el MTC.</li>
   <li>Cálculo de demandas proyectadas con visualización de gráficos dinámicos para observar variaciones horarias y diarias.</li>
@@ -82,6 +82,7 @@ Este programa ha sido diseñado para gestionar la información sobre tráfico ve
   <li>Cálculo del ESAL según el MANUAL DE CARRETERAS SUELOS, GEOLOGÍA, GEOTECNIA Y PAVIMENTOS, SECCIÓN SUELOS Y PAVIMENTOS R.D. N° 10-2014-MTC/14, considerando todos los factores técnicos relevantes.</li>
   <li>Generación de reportes completos en formato LaTeX para estudios de tráfico y cálculos de ESAL.</li>
 </ul>
+
 
 <p align="justify"><b>
 Este programa es una herramienta integral, precisa y fácil de usar, ideal para la evaluación y gestión del tráfico vehicular en proyectos viales e infraestructura civil.
