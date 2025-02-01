@@ -77,8 +77,8 @@ El script para la generación de reportes de memoria de diseño geométrico de c
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DG2018.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LATEX-DG-2018-)  
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)  
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
