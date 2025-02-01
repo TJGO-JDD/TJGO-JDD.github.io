@@ -72,9 +72,6 @@ El script para la generación de reportes de memoria de diseño geométrico de c
 </b></p>
 
 
-
-<span style="color:red;"><b>Proyecto en desarrollo...</b></span>
-
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
