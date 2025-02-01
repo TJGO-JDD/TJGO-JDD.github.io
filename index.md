@@ -68,7 +68,23 @@
 <div class="spacer3"></div>
 
 <p align="justify"><b>
-El script para la generación de reportes de memoria de diseño geométrico de carreteras mediante la interacción Python-LaTeX permite automatizar la creación de documentos técnicos detallados, en los que Python se encarga de realizar los cálculos y análisis necesarios del diseño (como curvas, pendientes, alineaciones, y secciones transversales), mientras que LaTeX se utiliza para generar un reporte profesional y bien estructurado, incluyendo fórmulas matemáticas, tablas, gráficos y texto explicativo. Este enfoque facilita la creación dinámica de documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el diseño de carreteras.
+Este programa ha sido diseñado para gestionar la información sobre tráfico vehicular y realizar cálculos precisos de ESAL (Carga Eslástica Equivalente de Un Solo Eje) en estudios de carreteras o expedientes técnicos relacionados. Proporciona herramientas eficientes para el análisis del impacto del tránsito sobre las carreteras y la evaluación de su durabilidad.
+</b></p>
+
+<p align="justify"><b>Características destacadas:</b></p>
+
+<ul>
+  <li>Interfaz amigable y fácil de usar.</li>
+  <li>Carga de datos de conteo vehicular según el ANEXO 5 FICHA ESTÁNDAR emitido por el MTC.</li>
+  <li>Cálculo de demandas proyectadas con visualización de gráficos dinámicos para observar variaciones horarias y diarias.</li>
+  <li>Visualización de los factores de corrección para vehículos pesados y ligeros, ajustados según el mes y la unidad de peaje correspondiente.</li>
+  <li>Cálculo de la tasa de crecimiento regional para vehículos de carga, ajustado a las características específicas de cada departamento.</li>
+  <li>Cálculo del ESAL según el MANUAL DE CARRETERAS SUELOS, GEOLOGÍA, GEOTECNIA Y PAVIMENTOS, SECCIÓN SUELOS Y PAVIMENTOS R.D. N° 10-2014-MTC/14, considerando todos los factores técnicos relevantes.</li>
+  <li>Generación de reportes completos en formato LaTeX para estudios de tráfico y cálculos de ESAL.</li>
+</ul>
+
+<p align="justify"><b>
+Este programa es una herramienta integral, precisa y fácil de usar, ideal para la evaluación y gestión del tráfico vehicular en proyectos viales e infraestructura civil.
 </b></p>
 
 
