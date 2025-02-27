@@ -155,14 +155,18 @@ Este programa ha sido diseñado para gestionar la información sobre tráfico ve
 Este programa es una herramienta integral, precisa y fácil de usar, ideal para la evaluación y gestión del tráfico vehicular en proyectos viales e infraestructura civil.
 </b></p>
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)  
 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)  
+
+
+
+
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
@@ -198,7 +202,8 @@ Este programa es una herramienta integral, precisa y fácil de usar, ideal para 
 El script para la generación de reportes de memoria de diseño geométrico de carreteras mediante la interacción Python-LaTeX permite automatizar la creación de documentos técnicos detallados, en los que Python se encarga de realizar los cálculos y análisis necesarios del diseño (como curvas, pendientes, alineaciones, y secciones transversales), mientras que LaTeX se utiliza para generar un reporte profesional y bien estructurado, incluyendo fórmulas matemáticas, tablas, gráficos y texto explicativo. Este enfoque facilita la creación dinámica de documentos precisos y actualizados de manera eficiente, optimizando el flujo de trabajo en el diseño de carreteras.
 </b></p>
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DG2018.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LATEX-DG-2018-) 
 
 <span style="color:red;"><b>Proyecto en desarrollo...</b></span>
 
@@ -207,8 +212,7 @@ El script para la generación de reportes de memoria de diseño geométrico de c
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DG2018.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LATEX-DG-2018-)  
+ 
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
@@ -239,15 +243,15 @@ El script para la generación de reportes automáticos de historial de precipita
 </b></p>
 
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DE.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX)  
 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/DE.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX)  
+
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
@@ -282,15 +286,15 @@ El script para la generación de reportes automáticos de historial de precipita
 El script para la generación de reportes automáticos con interoperabilidad entre Python y LaTeX permite automatizar la creación de documentos técnicos de manera flexible y eficiente. Originalmente utilizado para generar fichas técnicas de sistemas como BMS (Building Management Systems) y EPRO (Equipment Performance and Reliability Optimization), este enfoque puede generalizarse para cualquier tipo de reporte técnico. Python se encarga de procesar y analizar datos, realizar cálculos complejos o generar gráficos, mientras que LaTeX se utiliza para estructurar y formatear el documento final, incluyendo texto explicativo, tablas, ecuaciones y gráficos. Este sistema permite la creación de reportes personalizados y actualizados dinámicamente, mejorando la productividad y consistencia en la generación de documentos técnicos en diversas áreas, como ingeniería, investigación y gestión de proyectos.
 </b></p>
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMS.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/GENERACION-DE-REPORTES-AUTOMATICOS-PYTHON---LATEX) 
 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMS.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/GENERACION-DE-REPORTES-AUTOMATICOS-PYTHON---LATEX)  
+ 
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
@@ -321,12 +325,12 @@ Los programas para el diseño y detallado de zapatas en la calculadora HP Prime 
 </b></p>
 
 
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME)  
 
 <p align="center">
 <img src="assets\img\HPPRIME.png" width="10%" height="15%">
 </p>
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME)  
+
 
 
 <p align="center">
@@ -432,7 +436,8 @@ Los programas para el diseño y detallado de zapatas en la calculadora HP Prime 
 Los programas para la generación de cálculos y gráficas de líneas de influencia de momentos, cortantes y reacciones para múltiples tramos permiten analizar el comportamiento estructural de vigas o puentes sometidos a cargas variables. Estos programas calculan de manera automática los momentos flectores, esfuerzos cortantes y reacciones en los apoyos para cada tramo de la estructura, generando gráficas que ilustran cómo varían estas magnitudes en función de la posición de la carga. Este análisis es esencial para optimizar el diseño estructural y garantizar que la estructura responda adecuadamente a las cargas aplicadas. Además, la visualización gráfica de las líneas de influencia facilita la interpretación de los resultados y mejora la toma de decisiones en el diseño y evaluación de proyectos de ingeniería civil.
 </b></p>
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/LI.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LineasDeInfluenciPython)  
 
 <p align="center">
 <img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
@@ -440,8 +445,7 @@ Los programas para la generación de cálculos y gráficas de líneas de influen
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
 </p>
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/LI.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/LineasDeInfluenciPython)  
+
 
 <p align="center">
   <img src="assets\img\PG1.gif" width="100%" height="100%">
@@ -477,13 +481,13 @@ Los programas para la generación de cálculos y gráficas de líneas de influen
 <p align="justify"><b>
 Las gráficas de representación para un sistema de grado de libertad interactivo usando MATLAB permiten simular y visualizar el comportamiento dinámico de sistemas mecánicos o estructurales con un solo grado de libertad. Mediante el uso de interfaces gráficas de usuario (GUI), se puede interactuar de manera intuitiva con el sistema, ajustando parámetros como la masa, rigidez, amortiguamiento y excitación para observar cómo afectan a la respuesta dinámica. MATLAB facilita la creación de estas interfaces, donde el usuario puede modificar condiciones iniciales o fuerzas aplicadas, generando en tiempo real gráficas de desplazamientos, velocidades y aceleraciones. Este enfoque interactivo mejora la comprensión del comportamiento del sistema y facilita la enseñanza, el análisis y la optimización en proyectos de ingeniería y física aplicada.
 </b></p>
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-UN-GRADO-DE-LIBERTAD)  
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-UN-GRADO-DE-LIBERTAD)  
+
 <p align="center">
 <img src="assets\img\MATLAB1.jpeg" width="100%" height="100%">
 </p>
@@ -513,12 +517,12 @@ Popular en problemas de interpolación cuando los puntos son pocos y el polinomi
 </b></p>
 
 
-
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
+
 
 <p align="center">
 <img src="assets\img\LAGRANGE1.png" width="100%" height="100%">
@@ -547,14 +551,14 @@ Atribuido a Isaac Newton (1643-1727), quien fue pionero en el desarrollo del cá
 Muy eficiente para grandes conjuntos de datos o cuando los puntos están distribuidos no uniformemente.
 </b></p>
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTONINTER.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTONINTER.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL)  
+
 
 <p align="center">
 <img src="assets\img\NEWTONIN.png" width="100%" height="100%">
@@ -573,14 +577,14 @@ Ideal para interpolar datos que tienen restricciones adicionales, como informaci
 </b></p>
 
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HERMITE_IVAN.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HERMITE_IVAN.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 
 
 
@@ -600,14 +604,14 @@ Este método es atribuido a Eric Harold Neville (1889-1961), un matemático ingl
 Útil para interpolar de manera eficiente en un solo punto sin necesidad de construir el polinomio completo. Es especialmente adecuado para cálculos manuales o situaciones donde los datos pueden cambiar durante los cálculos.
 </b></p>
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEVILLE.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEVILLE.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/INTERPOLACION-Y-APROXIMACION-LINEAL) 
 
 
 
@@ -642,12 +646,14 @@ $$
 se actualiza el intervalo para acercarse a la raíz. Aunque es más lento que otros métodos, siempre converge si se cumplen las condiciones iniciales.
 
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BISECCION.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
+
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BISECCION.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
+
 <p align="center">
 <img src="assets\img\BISECCION4.png" width="100%" height="100%">
 </p>
@@ -670,15 +676,15 @@ El método de la secante es una técnica iterativa para resolver ecuaciones no l
 </b></p>
 
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SECANTE.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
 
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SECANTE.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
+
 <p align="center">
 <img src="assets\img\SECANTE1.png" width="100%" height="100%">
 </p>
@@ -707,13 +713,14 @@ f'(x)
 $$ 
 y una buena aproximación inicial para garantizar la convergencia. Este método es ideal para problemas donde la función es suave y diferenciable.
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTON.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/NEWTON.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)  
+
 <p align="center">
 <img src="assets\img\NEWTON1.png" width="100%" height="100%">
 </p>
@@ -753,15 +760,15 @@ y de la proximidad inicial al punto fijo.
 
 
 
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PUNTO_FIJO.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)    
    
 
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PUNTO_FIJO.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-DE-UNA-VARIABLE)    
+
 <p align="center">
 <img src="assets\img\PUNTOFIJO1.png" width="100%" height="100%">
 </p>
@@ -789,13 +796,13 @@ Programas para la solucion de sistemas de ecuaciones no lineales
 <p align="justify"><b>
 El método de Broyden es un enfoque cuasi-Newton para resolver sistemas de ecuaciones no lineales. Este método elimina la necesidad de calcular el Jacobiano exacto en cada iteración, reemplazándolo con una aproximación que se actualiza a medida que avanza la solución. Esto lo hace ideal para sistemas grandes o cuando el cálculo del Jacobiano es complejo. Aunque su convergencia es más lenta que el método de Newton-Raphson, es computacionalmente más eficiente.
 </b></p>
-
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_MB.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_MB.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)  
+
 
 
 <div class="cuadro">
@@ -805,12 +812,14 @@ El método de Broyden es un enfoque cuasi-Newton para resolver sistemas de ecuac
 <p align="justify"><b>
 El método de Newton-Raphson es un procedimiento iterativo ampliamente utilizado para resolver sistemas de ecuaciones no lineales. Se basa en linealizar el sistema mediante una expansión de Taylor y resolver las ecuaciones lineales resultantes en cada iteración. Es conocido por su rápida convergencia cuando se encuentra cerca de la solución exacta, pero requiere el cálculo del Jacobiano, lo cual puede ser computacionalmente costoso para problemas complejos.
 </b></p>
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_NR PARA_3_VARIABLES.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
+
 <p align="center">
 <img src="assets\img\logo matlab.png" width="7.5%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 </p>
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/SENL_NR PARA_3_VARIABLES.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/SISTEMA-DE-ECUACIONES-NO-LINEAS)   
 
 
 <audio autoplay muted>
