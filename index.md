@@ -63,6 +63,67 @@
 <div class="spacer2"></div>
 
 
+
+## PROGRAMA PARA LA GENERACIÓN DE FICHAS TECNICAS DE BMS CON IMAGENES SATELITALES AUTOMATICAS USANDO PYTHON Y WORD.
+---
+<div class="spacer3"></div>
+
+<p align="justify"><b>
+Este software ha sido desarrollado para automatizar la creación de fichas técnicas de BMS (Bridge Management System) mediante el uso de Python y Word, integrando imágenes satelitales de manera automática. Su objetivo principal es optimizar el proceso de documentación técnica, reduciendo el tiempo de elaboración y minimizando errores manuales.
+</b></p>
+
+<p align="justify"><b>Características destacadas:</b></p>
+
+<ul style="text-align: left;">
+  <li>Interfaz amigable y fácil de usar.</li>
+  <li>Creación de fichas técnicas en formato Word mediante una plantilla predefinida..</li>
+  <li>Obtención de imágenes de ubicaciones específicas de forma automatizada.</li>
+  <li>Compatibilidad con diversas fuentes de imágenes satelitales.</li>
+  <li>Uso de marcadores en Word para adaptar el contenido dinámicamente.</li>
+  <li>Posibilidad de modificar plantillas según los requerimientos del usuario.</li>
+  <li>Exportación de documentos con un solo clic.</li>
+</ul>
+
+
+<p align="justify"><b>
+Este programa es una herramienta integral, precisa y fácil de usar, ideal para la creación de reportes extensos de manrera rapida.
+
+
+<p align="center">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+</p>
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)  
+<div class="spacer"></div>
+<div class="spacer"></div>
+<p align="center">
+  <img src="assets\img\TRAFIX1.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX2.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX3.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX4.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX5.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX6.png" width="100%" height="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="spacer2"></div>
+<div class="spacer2"></div>
+
+
+
+
 ## REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1
 ---
 <div class="spacer3"></div>
