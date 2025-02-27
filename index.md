@@ -106,12 +106,10 @@ Este programa es una herramienta integral, precisa y fácil de usar, ideal para 
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
-  <img src="assets\img\TRAFIX1.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX2.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX3.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX4.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX5.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX6.png" width="100%" height="100%">
+  <img src="assets\img\BMX1.png" width="100%" height="100%">
+  <img src="assets\img\BMX2.png" width="100%" height="100%">
+  <img src="assets\img\BMX3.png" width="100%" height="100%">
+  <img src="assets\img\BMX4.png" width="100%" height="100%">
 </p>
 
 
