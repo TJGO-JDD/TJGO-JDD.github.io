@@ -62,7 +62,7 @@
 <div class="spacer2"></div>
 <div class="spacer2"></div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-Post_Facebook-blue?logo=Facebook&logoColor=#0A66C2)](https://www.facebook.com/share/p/DpsU4SCpCZ7SbFwS/)
+
 
 
 ## PROGRAMA PARA LA GENERACIÓN DE FICHAS TECNICAS DE BMS CON IMAGENES SATELITALES AUTOMATICAS USANDO PYTHON Y WORD.
@@ -90,6 +90,7 @@ Este software ha sido desarrollado para automatizar la creación de fichas técn
 Este programa es una herramienta integral, precisa y fácil de usar, ideal para la creación de reportes extensos de manera rápida.
 </b></p>
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)
 
