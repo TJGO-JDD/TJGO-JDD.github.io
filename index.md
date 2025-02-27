@@ -90,15 +90,14 @@ Este software ha sido desarrollado para automatizar la creación de fichas técn
 Este programa es una herramienta integral, precisa y fácil de usar, ideal para la creación de reportes extensos de manera rápida.
 </b></p>
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMEX1.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/BMEX)
 
 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+<img src="assets\img\word.png" width="12.5%" height="10%">
 </p>
 
 
