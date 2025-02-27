@@ -97,7 +97,7 @@ Este programa es una herramienta integral, precisa y fácil de usar, ideal para 
 <p align="center">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\word logo.png" width="12.5%" height="10%">
+<img src="assets\img\word logo.png" width="6%" height="10%">
 </p>
 
 
