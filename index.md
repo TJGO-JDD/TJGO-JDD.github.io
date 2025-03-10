@@ -70,7 +70,7 @@
 <div class="spacer3"></div>
 
 <p align="justify"><b>
-Este software ha sido desarrollado para automatizar la creación de fichas técnicas de BMS (Bridge Management System) mediante el uso de Python y Word, integrando imágenes satelitales de manera automática. Su objetivo principal es optimizar el proceso de documentación técnica, reduciendo el tiempo de elaboración y minimizando errores manuales.
+Este software ha sido desarrollado para automatizar la creación de fichas técnicas de BMS mediante el uso de Python y Word, integrando imágenes satelitales de manera automática. Su objetivo principal es optimizar el proceso de documentación técnica, reduciendo el tiempo de elaboración y minimizando errores manuales.
 </b></p>
 
 <p align="justify"><b>Características destacadas:</b></p>
