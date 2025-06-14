@@ -93,7 +93,7 @@ Con esta iniciativa busco apoyar a mis compañeros a mejorar la calidad de sus e
 
 <p align="center">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\latex logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
 </p>
 
 
