@@ -87,8 +87,8 @@ Con esta iniciativa busco apoyar a mis compañeros a mejorar la calidad de sus e
 </b></p>
 
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMEX1.pdf)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMEX1.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PRACPRO1.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/PRACPRO2.pdf)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp--green?logo=whatsapp&logoColor=white)](https://wa.me/51917726087?text=Deseo%20informaci%C3%B3n%20sobre!%20....)
 
 
