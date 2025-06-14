@@ -92,9 +92,8 @@ Con esta iniciativa busco apoyar a mis compañeros a mejorar la calidad de sus e
 
 
 <p align="center">
-<img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\word logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="6%" height="10%">
 </p>
 
 
@@ -102,10 +101,8 @@ Con esta iniciativa busco apoyar a mis compañeros a mejorar la calidad de sus e
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
-  <img src="assets\img\BMX1.png" width="100%" height="100%">
-  <img src="assets\img\BMX2.png" width="100%" height="100%">
-  <img src="assets\img\BMX3.png" width="100%" height="100%">
-  <img src="assets\img\BMX4.png" width="100%" height="100%">
+  <img src="assets\img\PRACPRO1.png" width="100%" height="100%">
+  <img src="assets\img\PRACPRO2.png" width="100%" height="100%">
 </p>
 
 
