@@ -73,12 +73,18 @@
 
 <p align="justify"><b>
 Este proyecto tiene como objetivo brindar de manera gratuita y accesible un conjunto de plantillas personalizadas en LaTeX y Beamer para la elaboración de informes y presentaciones de prácticas preprofesionales, dirigidas a los estudiantes de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH).
+</b></p>
+
+<p align="justify"><b>
 
 Estas plantillas están diseñadas con base en los requerimientos académicos más comunes, asegurando una estructura profesional, ordenada y estéticamente adecuada, tanto para documentos escritos como para exposiciones orales. Además, promueven el uso de herramientas libres como LaTeX, fomentando buenas prácticas de redacción técnica y presentación académica.
 
-Con esta iniciativa busco apoyar a mis compañeros a mejorar la calidad de sus entregables, ahorrar tiempo en el formato de documentos y difundir el uso de herramientas tecnológicas en el entorno universitario.
 </b></p>
 
+<p align="justify"><b>
+
+Con esta iniciativa busco apoyar a mis compañeros a mejorar la calidad de sus entregables, ahorrar tiempo en el formato de documentos y difundir el uso de herramientas tecnológicas en el entorno universitario.
+</b></p>
 
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/BMEX1.pdf)
