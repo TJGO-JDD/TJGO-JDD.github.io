@@ -71,7 +71,13 @@
 
 
 ## 🔧 Tecnologías utilizadas
-<ul style="text-align: left;"> <li>Python</li> <li>PyQt / Qt Designer</li> <li>Rasterio / NumPy</li> <li>Algoritmos GIS e hidrológicos</li> <li>LaTeX para generación automática de reportes</li> </ul>
+<ul style="text-align: left;"> <li>Python 3.6.13</li> <li>PyQt / Qt Designer</li> <li>Rasterio / NumPy</li> <li>Algoritmos GIS e hidrológicos</li> <li>LaTeX para generación automática de reportes</li> </ul>
+
+## 📌 Aplicaciones
+<ul style="text-align: left;"> <li>Estudios hidrológicos y de drenaje.</li> <li>Proyectos de carreteras y obras hidráulicas.</li> <li>Tesis de pregrado y posgrado en ingeniería civil.</li> <li>Análisis geomorfológico de cuencas.</li> </ul>
+
+##  👨‍💻 Autor
+<p align="justify"> <b>Ñol Iván Juan de Dios Rojas (TJGO)</b><br> Ingeniería Civil – Desarrollo de software técnico aplicado a la ingeniería </p>
 
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
@@ -89,12 +95,41 @@
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
-  <img src="assets\img\TRAFIX1.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX2.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX3.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX4.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX5.png" width="100%" height="100%">
-  <img src="assets\img\TRAFIX6.png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (1).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (2).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (3).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (4).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (5).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (6).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (7).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (8).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (9).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (10).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (11).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (12).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (13).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (14).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (15).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (16).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (17).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (18).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (19).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (20).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (21).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (22).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (23).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (24).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (25).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (26).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (27).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (28).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (29).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (30).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (31).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (32).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (33).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (34).png" width="100%" height="100%">
+  <img src="assets\img\HTJGO (35).png" width="100%" height="100%">
 </p>
 
 
