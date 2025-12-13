@@ -63,6 +63,17 @@
 <div class="spacer2"></div>
 
 
+## REPORTE AUTOMÁTICO DE ANÁLISIS HIDROLÓGICO Y GEOMORFOLÓGICO (LaTeX) – HYDROTJGO REPORT v1
+---
+
+<div class="spacer3"></div> <p align="justify"><b> El módulo de Reporte Automático de HYDROTJGO ha sido desarrollado para la generación de memorias técnicas hidrológicas y geomorfológicas en formato LaTeX, integrando de manera automática los resultados obtenidos del análisis de cuencas hidrográficas. El sistema no solo exporta tablas y figuras, sino que interpreta los valores calculados y redacta conclusiones técnicas coherentes, reduciendo la intervención manual del usuario y asegurando consistencia metodológica en los informes. </b></p> <p align="justify"><b>Características destacadas:</b></p> <ul style="text-align: left;"> <li>Generación automática de informes técnicos completos en formato LaTeX.</li> <li>Inserción estructurada de mapas, gráficos, tablas y figuras generadas por el sistema.</li> <li>Interpretación automática de parámetros morfométricos e hidrológicos de la cuenca.</li> <li>Redacción automática de conclusiones en función de los valores obtenidos (área, pendiente, forma, red de drenaje, hipsometría, entre otros).</li> <li>Ajuste dinámico del contenido del informe según las características específicas de la cuenca analizada.</li> <li>Estandarización del lenguaje técnico empleado en memorias de cálculo y expedientes técnicos.</li> <li>Compatibilidad con formatos de tesis, informes profesionales y estudios hidrológicos.</li> </ul> <p align="justify"><b> El reporte automático permite transformar resultados numéricos en conceptos técnicos interpretativos, facilitando la elaboración de documentos profesionales, académicos y técnicos con un alto nivel de calidad y coherencia ingenieril. </b></p>
+
+## Interpretación automática de resultados
+<ul style="text-align: left;"> <li>Clasificación automática de la cuenca según su tamaño y forma.</li> <li>Evaluación del comportamiento hidrológico a partir de la pendiente media y la red de drenaje.</li> <li>Interpretación de la curva hipsométrica y su implicancia en la madurez geomorfológica.</li> <li>Conclusiones técnicas generadas en función de rangos y criterios hidrológicos predefinidos.</li> </ul>
+
+
+
+
 
 
 ## SISTEMA INTEGRAL DE ANÁLISIS DE CUENCAS HIDROGRÁFICAS (PYTHON · GIS · LaTeX) – HYDROTJGO v1
