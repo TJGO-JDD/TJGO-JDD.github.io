@@ -72,6 +72,14 @@
 <ul style="text-align: left;"> <li>Clasificación automática de la cuenca según su tamaño y forma.</li> <li>Evaluación del comportamiento hidrológico a partir de la pendiente media y la red de drenaje.</li> <li>Interpretación de la curva hipsométrica y su implicancia en la madurez geomorfológica.</li> <li>Conclusiones técnicas generadas en función de rangos y criterios hidrológicos predefinidos.</li> </ul>
 
 
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)  
+
+<p align="center">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+</p>
 
 
 
