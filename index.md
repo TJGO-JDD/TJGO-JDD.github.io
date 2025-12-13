@@ -65,6 +65,146 @@
 
 
 
+## SISTEMA INTEGRAL DE ANÁLISIS DE CUENCAS HIDROGRÁFICAS (PYTHON · GIS · LaTeX) – HYDROTJGO v1
+---
+<div class="spacer3"></div> <p align="justify"><b> HYDROTJGO es un sistema integral desarrollado para la delimitación automática de cuencas hidrográficas y el análisis geomorfológico e hidrológico, orientado a estudios de ingeniería civil, hidrología, carreteras y expedientes técnicos. El programa permite procesar modelos digitales de elevación (DEM) y generar información técnica confiable para la toma de decisiones en proyectos de infraestructura y recursos hídricos. </b></p> <p align="justify"><b>Características destacadas:</b></p> <ul style="text-align: left;"> <li>Interfaz gráfica intuitiva y orientada a ingenieros y estudiantes.</li> <li>Carga y procesamiento de Modelos Digitales de Elevación (DEM).</li> <li>Delimitación automática de cuencas hidrográficas mediante algoritmos de dirección de flujo (D8).</li> <li>Generación de la red de drenaje y orden de corrientes.</li> <li>Cálculo de parámetros morfométricos de cuenca (área, perímetro, pendiente media, longitud del cauce principal, entre otros).</li> <li>Análisis geomorfológico con generación de curvas hipsométricas y perfiles longitudinales.</li> <li>Visualización cartográfica de cuencas, redes de flujo y resultados de análisis.</li> <li>Generación automática de mapas y reportes técnicos en formato LaTeX, listos para tesis, informes y expedientes técnicos.</li> </ul> <p align="justify"><b> HYDROTJGO es una herramienta técnica, precisa y eficiente, diseñada para optimizar el análisis hidrológico y geomorfológico, reduciendo tiempos de procesamiento y mejorando la calidad de los estudios de cuencas hidrográficas en proyectos de ingeniería civil. </b></p>
+
+🔧 Tecnologías utilizadas
+<ul style="text-align: left;"> <li>Python</li> <li>PyQt / Qt Designer</li> <li>Rasterio / NumPy</li> <li>Algoritmos GIS e hidrológicos</li> <li>LaTeX para generación automática de reportes</li> </ul>
+
+
+📌 Aplicaciones
+<ul style="text-align: left;"> <li>Estudios hidrológicos y de drenaje.</li> <li>Proyectos de carreteras y obras hidráulicas.</li> <li>Tesis de pregrado y posgrado en ingeniería civil.</li> <li>Análisis geomorfológico de cuencas.</li> </ul>
+
+
+👨‍💻 Autor
+<p align="justify"> <b>Ñol Iván Juan de Dios Rojas (TJGO)</b><br> Ingeniería Civil – Desarrollo de software técnico aplicado a la ingeniería </p>
+
+
+
+
+
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/TRAFIXREPORT.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/TRAFIX_V1)  
+
+<p align="center">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+</p>
+
+
+
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+<p align="center">
+  <img src="assets\img\TRAFIX1.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX2.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX3.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX4.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX5.png" width="100%" height="100%">
+  <img src="assets\img\TRAFIX6.png" width="100%" height="100%">
+</p>
+
+
+
+<div class="spacer2"></div>
+<div class="spacer2"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## PLANTILLAS DE INFORME Y PRESENTACIÓN USANDO LATEX Y BEAMER PARA PRACTICAS PREPROFESIONALES
