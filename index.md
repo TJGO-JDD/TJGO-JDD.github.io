@@ -65,7 +65,28 @@
 
 
 
-## 🗺 Generador Automático de Mapas de Ubicación
+
+## FOTOGRAMETRIA - TOPOGRAFIA
+---
+
+<div class="spacer3"></div> <p align="justify"> <b> Especialista en fotogrametría aplicada a ingeniería civil, con 3 años de experiencia en levantamientos aéreos mediante dron y procesamiento de información geoespacial para proyectos de infraestructura. </b> </p> <p align="justify"> <b> Realizo generación de ortofotos, modelos digitales del terreno (MDT), modelos digitales de superficie (MDS), curvas de nivel y nubes de puntos, orientados a expedientes técnicos, estudios definitivos y proyectos de inversión pública y privada. </b> </p>
+🚀 Equipamiento Profesional
+<ul style="text-align: left;"> <li>🚁 Dron profesional <b>DJI Matrice 4E</b>.</li> <li>📡 Planificación de vuelos fotogramétricos con control de traslape y GSD.</li> <li>📍 Georreferenciación mediante puntos de control (GCP).</li> <li>📊 Procesamiento de imágenes para generación de ortomosaicos de alta precisión.</li> </ul>
+📸 Productos Generados
+<ul style="text-align: left;"> <li>Ortofotos georreferenciadas de alta resolución.</li> <li>Modelos Digitales del Terreno (MDT).</li> <li>Modelos Digitales de Superficie (MDS).</li> <li>Curvas de nivel automáticas.</li> <li>Nube de puntos densa.</li> <li>Cálculo de volúmenes y movimientos de tierra.</li> <li>Mapas topográficos listos para expedientes técnicos.</li> </ul>
+🏗 Experiencia y Competencias Técnicas
+<ul style="text-align: left;"> <li>3 años de experiencia en fotogrametría aplicada.</li> <li>Licencia correspondiente para operación de RPAS.</li> <li>Manejo avanzado de <b>AutoCAD Civil 3D</b>.</li> <li>Diseño de explanaciones.</li> <li>Modelado de superficies.</li> <li>Diseño preliminar de vías.</li> <li>Cálculo de cortes y rellenos.</li> <li>Integración de información topográfica en proyectos de ingeniería civil.</li> </ul>
+🎯 Aplicaciones Profesionales
+<ul style="text-align: left;"> <li>Infraestructura vial.</li> <li>Saneamiento.</li> <li>Habilitaciones urbanas.</li> <li>Movimiento de tierras.</li> <li>Levantamientos topográficos de precisión.</li> <li>Supervisión y control de obra.</li> </ul>
+
+
+
+
+
+
+
+
+## MAPS TJGO - Generador Automático de Mapas de Ubicación
 ---
 
 <div class="spacer3"></div> <p align="justify"><b> El módulo de Reporte Automático de HYDROTJGO ha sido desarrollado para la generación de memorias técnicas hidrológicas y geomorfológicas en formato LaTeX, integrando de manera automática los resultados obtenidos del análisis de cuencas hidrográficas. El sistema no solo exporta tablas y figuras, sino que interpreta los valores calculados y redacta conclusiones técnicas coherentes, reduciendo la intervención manual del usuario y asegurando consistencia metodológica en los informes. </b></p> <p align="justify"><b>Características destacadas:</b></p> <ul style="text-align: left;"> <li>Generación automática de informes técnicos completos en formato LaTeX.</li> <li>Inserción estructurada de mapas, gráficos, tablas y figuras generadas por el sistema.</li> <li>Interpretación automática de parámetros morfométricos e hidrológicos de la cuenca.</li> <li>Redacción automática de conclusiones en función de los valores obtenidos (área, pendiente, forma, red de drenaje, hipsometría, entre otros).</li> <li>Ajuste dinámico del contenido del informe según las características específicas de la cuenca analizada.</li> <li>Estandarización del lenguaje técnico empleado en memorias de cálculo y expedientes técnicos.</li> <li>Compatibilidad con formatos de tesis, informes profesionales y estudios hidrológicos.</li> </ul> <p align="justify"><b> El reporte automático permite transformar resultados numéricos en conceptos técnicos interpretativos, facilitando la elaboración de documentos profesionales, académicos y técnicos con un alto nivel de calidad y coherencia ingenieril. </b></p>
@@ -86,16 +107,10 @@
 <div class="spacer"></div>
 <div class="spacer"></div>
 <p align="center">
-  <img src="assets\img\RP (1).png" width="100%" height="100%">
-  <img src="assets\img\RP (2).png" width="100%" height="100%">
-  <img src="assets\img\RP (3).png" width="100%" height="100%">
-  <img src="assets\img\RP (4).png" width="100%" height="100%">
-  <img src="assets\img\RP (5).png" width="100%" height="100%">
-  <img src="assets\img\RP (6).png" width="100%" height="100%">
-  <img src="assets\img\RP (7).png" width="100%" height="100%">
-  <img src="assets\img\RP (8).png" width="100%" height="100%">
-  <img src="assets\img\RP (9).png" width="100%" height="100%">
-  <img src="assets\img\RP (10).png" width="100%" height="100%">
+  <img src="assets\img\MAPS1.jfif"" width="100%" height="100%">
+  <img src="assets\img\MAPS2.jfif" width="100%" height="100%">
+  <img src="assets\img\MAPS3.jfif"" width="100%" height="100%">
+  <img src="assets\img\MAPS4.jfif" width="100%" height="100%">
 </p>
 
 
