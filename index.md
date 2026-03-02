@@ -77,7 +77,7 @@
 📸 Productos Generados
 <ul style="text-align: left;"> <li>Ortofotos georreferenciadas de alta resolución.</li> <li>Modelos Digitales del Terreno (MDT).</li> <li>Modelos Digitales de Superficie (MDS).</li> <li>Curvas de nivel automáticas.</li> <li>Nube de puntos densa.</li> <li>Cálculo de volúmenes y movimientos de tierra.</li> <li>Mapas topográficos listos para expedientes técnicos.</li> </ul>
 🏗 Experiencia y Competencias Técnicas
-<ul style="text-align: left;"> <li>3 años de experiencia en fotogrametría aplicada.</li> <li>Licencia correspondiente para operación de RPAS.</li> <li>Manejo avanzado de <b>AutoCAD Civil 3D</b>.</li> <li>Diseño de explanaciones.</li> <li>Modelado de superficies.</li> <li>Diseño preliminar de vías.</li> <li>Cálculo de cortes y rellenos.</li> <li>Integración de información topográfica en proyectos de ingeniería civil.</li> </ul>
+<ul style="text-align: left;"> <li>3 años de experiencia en fotogrametría aplicada.</li> <li>Licencia correspondiente para operación de RPAS.</li> <li>Manejo  de <b>AutoCAD Civil 3D</b>.</li> <li>Diseño de explanaciones.</li> <li>Modelado de superficies.</li> <li>Diseño preliminar de vías.</li> <li>Cálculo de cortes y rellenos.</li> <li>Integración de información topográfica en proyectos de ingeniería civil.</li> </ul>
 🎯 Aplicaciones Profesionales
 <ul style="text-align: left;"> <li>Infraestructura vial.</li> <li>Saneamiento.</li> <li>Habilitaciones urbanas.</li> <li>Movimiento de tierras.</li> <li>Levantamientos topográficos de precisión.</li> <li>Supervisión y control de obra.</li> </ul>
 
