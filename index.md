@@ -24,7 +24,7 @@
 <div class="spacer"></div>
 <div style="text-align: center;">
   <div style="display: inline-block;">
-    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2025 Todos los derechos reservados. </span>
+    <span style="font-size: 13px; color: gray; position: relative; bottom: 5px;"> © 2026 Todos los derechos reservados. </span>
     </div>
   <div class="spacer"></div>
 </div>
@@ -63,7 +63,9 @@
 <div class="spacer2"></div>
 
 
-## REPORTE AUTOMÁTICO DE ANÁLISIS HIDROLÓGICO Y GEOMORFOLÓGICO (LaTeX) – HYDROTJGO REPORT v1
+
+
+## 🗺 Generador Automático de Mapas de Ubicación
 ---
 
 <div class="spacer3"></div> <p align="justify"><b> El módulo de Reporte Automático de HYDROTJGO ha sido desarrollado para la generación de memorias técnicas hidrológicas y geomorfológicas en formato LaTeX, integrando de manera automática los resultados obtenidos del análisis de cuencas hidrográficas. El sistema no solo exporta tablas y figuras, sino que interpreta los valores calculados y redacta conclusiones técnicas coherentes, reduciendo la intervención manual del usuario y asegurando consistencia metodológica en los informes. </b></p> <p align="justify"><b>Características destacadas:</b></p> <ul style="text-align: left;"> <li>Generación automática de informes técnicos completos en formato LaTeX.</li> <li>Inserción estructurada de mapas, gráficos, tablas y figuras generadas por el sistema.</li> <li>Interpretación automática de parámetros morfométricos e hidrológicos de la cuenca.</li> <li>Redacción automática de conclusiones en función de los valores obtenidos (área, pendiente, forma, red de drenaje, hipsometría, entre otros).</li> <li>Ajuste dinámico del contenido del informe según las características específicas de la cuenca analizada.</li> <li>Estandarización del lenguaje técnico empleado en memorias de cálculo y expedientes técnicos.</li> <li>Compatibilidad con formatos de tesis, informes profesionales y estudios hidrológicos.</li> </ul> <p align="justify"><b> El reporte automático permite transformar resultados numéricos en conceptos técnicos interpretativos, facilitando la elaboración de documentos profesionales, académicos y técnicos con un alto nivel de calidad y coherencia ingenieril. </b></p>
@@ -71,6 +73,87 @@
 ## Interpretación automática de resultados
 <ul style="text-align: left;"> <li>Clasificación automática de la cuenca según su tamaño y forma.</li> <li>Evaluación del comportamiento hidrológico a partir de la pendiente media y la red de drenaje.</li> <li>Interpretación de la curva hipsométrica y su implicancia en la madurez geomorfológica.</li> <li>Conclusiones técnicas generadas en función de rangos y criterios hidrológicos predefinidos.</li> </ul>
 
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HYDROTJGO.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/CUENCASPRO)  
+
+<p align="center">
+<img src="assets\img\python logo.png" width="6%" height="10%">
+<img src="assets\img\vs code logo.png" width="6%" height="10%">
+<img src="assets\img\latex logo.png" width="12.5%" height="10%">
+</p>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+<p align="center">
+  <img src="assets\img\RP (1).png" width="100%" height="100%">
+  <img src="assets\img\RP (2).png" width="100%" height="100%">
+  <img src="assets\img\RP (3).png" width="100%" height="100%">
+  <img src="assets\img\RP (4).png" width="100%" height="100%">
+  <img src="assets\img\RP (5).png" width="100%" height="100%">
+  <img src="assets\img\RP (6).png" width="100%" height="100%">
+  <img src="assets\img\RP (7).png" width="100%" height="100%">
+  <img src="assets\img\RP (8).png" width="100%" height="100%">
+  <img src="assets\img\RP (9).png" width="100%" height="100%">
+  <img src="assets\img\RP (10).png" width="100%" height="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## REPORTE AUTOMÁTICO DE ANÁLISIS HIDROLÓGICO Y GEOMORFOLÓGICO (LaTeX) – HYDROTJGO REPORT v1
+---
+
+<div class="spacer3"></div> <p align="justify"> <b> TJGO MAP v1 es un software totalmente gratuito desarrollado para la generación automática de mapas de ubicación, orientado a profesionales y estudiantes de Ingeniería Civil, Topografía y áreas afines. El sistema automatiza la creación de mapas cartográficos listos para documentación técnica, garantizando estandarización visual, precisión geoespacial y presentación profesional. </b> </p>
+🌎 Niveles de Generación Cartográfica
+<p align="justify"> El sistema permite crear mapas de ubicación en distintos niveles territoriales del Perú: </p> <ul style="text-align: left;"> <li>📍 Nivel Departamental</li> <li>📍 Nivel Provincial</li> <li>📍 Nivel Distrital</li> <li>📍 Ubicación específica del proyecto</li> </ul> <p align="justify"> Todo el proceso se realiza mediante la carga de archivos <b>SHP (Shapefile)</b>, generando resultados listos para integrar en: </p> <ul style="text-align: left;"> <li>Expedientes técnicos</li> <li>Proyectos de inversión</li> <li>Estudios definitivos</li> <li>Tesis universitarias</li> <li>Informes técnicos</li> </ul>
+🚀 Características Principales
+<ul style="text-align: left;"> <li>✔ Generación automática de mapas de ubicación.</li> <li>✔ Lectura y procesamiento de archivos SHP.</li> <li>✔ Etiquetado automático de entidades geográficas.</li> <li>✔ Diseño profesional optimizado para documentación técnica.</li> <li>✔ Inclusión automática de escala gráfica, norte, marco y leyenda.</li> <li>✔ Exportación directa en PDF y PNG.</li> <li>✔ No requiere licencia.</li> <li>✔ No requiere suscripción.</li> <li>✔ Descarga libre.</li> </ul>
+🎯 Enfoque del Proyecto
+<p align="justify"> La automatización en la generación de mapas permite: </p> <ul style="text-align: left;"> <li>Reducir tiempos en la elaboración de expedientes técnicos.</li> <li>Estandarizar la presentación cartográfica.</li> <li>Minimizar errores manuales.</li> <li>Optimizar flujos de trabajo en proyectos de:</li> <ul> <li>Infraestructura vial</li> <li>Saneamiento</li> <li>Obras civiles en general</li> </ul> </ul>
+📂 Requisitos
+<ul style="text-align: left;"> <li>Archivos en formato <b>.shp</b>.</li> <li>Sistema de coordenadas correctamente definido (ejemplo: UTM WGS84).</li> </ul>
+📌 Aplicación Profesional
+<p align="justify"> TJGO MAP v1 está diseñado para complementar flujos de trabajo en entornos de diseño y análisis cartográfico, facilitando la integración de mapas en documentación técnica formal y memorias descriptivas. </p> <ul style="text-align: left;"> <li>Integración con planos y documentación técnica.</li> <li>Compatibilidad con formatos utilizados en expedientes públicos y privados.</li> <li>Uso académico y profesional.</li> </ul>
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_PDF-blue?logo=adobe-acrobat-reader&logoColor=white)](PDF/HYDROTJGO.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub--black?logo=GitHub&logoColor=white)](https://github.com/TJGO-JDD/CUENCASPRO)  
