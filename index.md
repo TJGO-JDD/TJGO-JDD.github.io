@@ -58,9 +58,8 @@
 <img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
-<img src="assets\img\latex logo.png" width="12.5%" height="10%">
-<img src="assets\img\METASHAPE.jpeg" width="12.5%" height="10%">
-<img src="assets\img\mapper.png" width="12.5%" height="10%">
+<img src="assets\img\METASHAPE.jpeg" width="10%" height="8%">
+<img src="assets\img\mapper.png" width="11%" height="8%">
 </p>
 <div class="spacer2"></div>
 <div class="spacer2"></div>
