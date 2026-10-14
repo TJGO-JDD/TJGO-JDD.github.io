@@ -1,116 +1,127 @@
-# THE MINIMAL THEME
+# TJGO — Civil Engineering, Research & Technology
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+Plataforma profesional de **Ñol Iván Juan de Dios Rojas (TJGO)** publicada en
+<https://tjgo-jdd.github.io>.
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+Sitio construido con **React + TypeScript + Vite**, Tailwind CSS v4, React Router,
+Motion, Lucide, React Three Fiber (Three.js) y KaTeX. Se despliega automáticamente
+en GitHub Pages mediante GitHub Actions.
 
-![Thumbnail of Minimal](thumbnail.png)
+---
 
-## Usage
+## 1. Requisitos
 
-To use the Minimal theme:
+- Node.js **22.6 o superior** (https://nodejs.org)
+- Git
 
-1. Add the following to your site's `_config.yml`:
+## 2. Uso local
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-## Customizing
-
-### Configuration variables
-
-Minimal will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+```bash
+npm install        # solo la primera vez
+npm run dev        # servidor local en http://localhost:5173
+npm test           # verifica los cálculos del Engineering Lab
+npm run build      # genera la versión final en /dist
+npm run preview    # previsualiza /dist en http://localhost:4173
 ```
 
-Additionally, you may choose to set the following optional variables:
+`npm run dev` y `npm run build` generan automáticamente las miniaturas WebP
+(`public/thumbs`) a partir de `assets/img`, y el `sitemap.xml`.
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+## 3. Despliegue en GitHub Pages (una sola vez)
+
+1. Sube los cambios a la rama `main`.
+2. En GitHub: **Settings → Pages → Build and deployment → Source: _GitHub Actions_**.
+3. Cada `git push` a `main` ejecuta `.github/workflows/deploy.yml`:
+   instala dependencias → `npm test` → `npm run build` → publica `dist/`.
+
+> Importante: mientras la fuente de Pages siga en *Deploy from a branch* (Jekyll),
+> el sitio nuevo **no** se mostrará correctamente. Cambia la fuente a *GitHub Actions*.
+
+Los archivos del tema Jekyll anterior (`_config.yml`, `_layouts`, `_sass`, `index.md`, …)
+ya no se usan; puedes borrarlos cuando quieras.
+
+## 4. Estructura
+
+```
+assets/img/            Imágenes originales (capturas, fotos, logos)  ← se copian al build
+PDF/                   Documentos PDF enlazados                       ← se copian al build
+public/                robots.txt (+ thumbs y sitemap generados)
+scripts/               thumbs.mjs · sitemap.ts · test-calcs.ts
+src/
+  data/                ← CONTENIDO EDITABLE
+    site.ts            nombre, bio, redes, menú, stack
+    software.ts        catálogo de programas
+    projects.ts        proyectos (profesional / desarrollo propio / académico)
+    areas.ts           seis áreas de ingeniería
+    research.ts        métodos numéricos y recursos académicos
+  components/          Navbar, Footer, Hero, tarjetas, galería, UI
+  pages/               una página por ruta
+  lab/                 herramientas del Engineering Lab
+  three/               escena 3D del puente (hero) y versión SVG
+  lib/                 cálculos (mechanics.ts), curvas de nivel, SEO, utilidades
+  styles/index.css     tokens de diseño (paleta, tipografía, paneles, botones)
 ```
 
-### Stylesheet
+## 5. Añadir un programa nuevo
 
-If you'd like to add your own custom styles:
+1. Copia las capturas en `assets/img/` (p. ej. `PREC1.png`, `PREC2.png`).
+2. Abre `src/data/software.ts` y agrega (o completa) un bloque:
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+```ts
+{
+  slug: 'prec-tjgo',                 // URL: /software/prec-tjgo
+  name: 'PREC TJGO',
+  version: 'v1',
+  category: 'Hidrología',            // ver tipos en src/data/types.ts
+  areas: ['hidrologia', 'software'],
+  status: 'estable',                 // 'estable' | 'en-desarrollo' | 'ficha-pendiente'
+  featured: false,                   // true = aparece en la portada
+  summary: 'Frase corta para la tarjeta.',
+  description: ['Párrafo 1', 'Párrafo 2'],
+  features: ['Característica 1', 'Característica 2'],
+  tech: ['Python', 'PyQt'],          // solo tecnologías verificadas
+  images: ['/assets/img/PREC1.png', '/assets/img/PREC2.png'],
+  links: [
+    { kind: 'github', label: 'Repositorio', href: 'https://github.com/TJGO-JDD/...' },
+    { kind: 'download', label: 'Descargar', href: 'https://...' },
+  ],
+  youtubeId: 'XXXXXXXXXXX',          // opcional: ID del video de YouTube
+},
+```
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+El catálogo, los filtros, la búsqueda, la página de detalle, el pie de página y el
+sitemap se actualizan solos. Tipos de enlace: `github`, `pdf`, `drive`, `youtube`,
+`demo`, `download`, `whatsapp`, `web`.
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+Programas con ficha pendiente de información real: **PREC TJGO**, **TJGO PANEL EXCEL**,
+**TJGO PANEL WORD** (y capturas de **TJGO STATS**). Complétalos en `software.ts`.
 
-### Layouts
+## 6. Añadir un proyecto
 
-If you'd like to change the theme's HTML layout:
+Edita `src/data/projects.ts`. El campo `kind` diferencia:
+`profesional` (trabajo ejecutado), `desarrollo-propio` y `academico`.
+`relatedSoftware` enlaza el proyecto con la ficha de un programa.
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+## 7. Engineering Lab
 
-### Customizing Google Analytics code
+Cálculos en `src/lib/mechanics.ts`, verificados por `npm test` contra soluciones cerradas:
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+| Herramienta | Método |
+|---|---|
+| Vigas (S.A. / voladizo) | Equilibrio estático, V(x), M(x); elástica por doble integración de EI·y″ = M |
+| Líneas de influencia | Viga S.A.; camión HL-93 (35-145-145 kN @ 4.30 m) + carril 9.3 kN/m, IM 33 % |
+| Oscilador 1 GDL | Newmark aceleración promedio (γ = ½, β = ¼); vibración libre y forzada armónica |
+| Terreno 3D | MDT sintético (ruido fractal), curvas por *marching squares*, pendiente por diferencias centrales |
+| Conversor | Factores exactos (g₀ = 9.80665 m/s², 1 lbf = 4.4482216152605 N, 1 ft = 0.3048 m) |
 
-### Overriding GitHub-generated URLs
+## 8. Diseño
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+Paleta definida en `src/styles/index.css` (`@theme`):
+fondo `#050807`, superficie `#0D1915`, secundaria `#11221B`, verde profundo `#104B39`,
+acento `#00E6A0`, acento hover `#3FFFC1`, texto `#F5F7F6`, texto secundario `#9DAAA4`,
+bordes `rgba(150,255,210,.12)`.
 
-1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+- La escena 3D del hero solo se carga en escritorio con WebGL; en móvil/tablet se usa
+  el alzado SVG equivalente.
+- Todas las animaciones respetan `prefers-reduced-motion`.
+- Google Analytics 4 (`G-ZZYG0XLBM7`) está en `index.html`.
