@@ -360,7 +360,7 @@ export const software: Software[] = [
       'Comparación de casos y ejemplos precargados.',
     ],
     tech: ['HP Prime (PPL)', 'Nabla GUI API'],
-    images: seq((i) => `VL (${i}).jpg`, 1, 10),
+    images: seq((i) => `SIS${i}.jpg`, 1, 10),
     links: [{ kind: 'github', label: 'GitHub TJGO-JDD', href: 'https://github.com/TJGO-JDD' }],
   },
   {
@@ -384,7 +384,7 @@ export const software: Software[] = [
       'Resumen de resultados: r, α y τ.',
     ],
     tech: ['HP Prime (PPL)', 'Nabla GUI API'],
-    images: seq((i) => `VF (${i}).jpg`, 1, 7),
+        images: seq((i) => `VL${i}.jpg`, 1, 7),
     links: [{ kind: 'github', label: 'GitHub TJGO-JDD', href: 'https://github.com/TJGO-JDD' }],
   },
 ];
