@@ -146,7 +146,7 @@ export const software: Software[] = [
     ],
     tech: ['Python'],
     images: [img('BRIDGE.png')],
-    links: [{ kind: 'github', label: 'GitHub TJGO-JDD', href: 'https://tjgo-lineasdeinfluencia.streamlit.app/' }],
+    links: [{ kind: 'github', label: 'WEB DIDACTICA', href: 'https://tjgo-lineasdeinfluencia.streamlit.app/' }],
   },
   {
     slug: 'bmex',
