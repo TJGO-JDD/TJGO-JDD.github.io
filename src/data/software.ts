@@ -300,7 +300,7 @@ export const software: Software[] = [
       'Video de demostración en preparación para el canal de YouTube.',
     ],
     tech: ['Python', 'Microsoft Word'],
-    images: [seq((i) => `HE (${i}).png`, 1, 10)],
+    images: seq((i) => `HE (${i}).png`, 1, 10),
     links: [{ kind: 'youtube', label: 'Canal de YouTube', href: 'https://www.youtube.com/@TJGO-JDD' }],
   },
   {
@@ -312,7 +312,7 @@ export const software: Software[] = [
     summary: 'Ficha técnica en preparación.',
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: [],
-    images: [seq((i) => `PREC (${i}).png`, 1, 12)],
+    images: seq((i) => `PREC (${i}).png`, 1, 12),
     links: [],
   },
   {
@@ -324,7 +324,7 @@ export const software: Software[] = [
     summary: 'Ficha técnica en preparación.',
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: ['Microsoft Excel'],
-    images: [seq((i) => `PANEL EXCEL (${i}).png`, 1, 4)],
+    images: seq((i) => `PANEL EXCEL (${i}).png`, 1, 4),
     links: [],
   },
   {
@@ -336,7 +336,7 @@ export const software: Software[] = [
     summary: 'Ficha técnica en preparación.',
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: ['Microsoft Word'],
-    images: [images: seq((i) => `PANELWORD (${i}).png`, 1, 4)],
+    images: images: seq((i) => `PANELWORD (${i}).png`, 1, 4),
     links: [],
   },
 ];
