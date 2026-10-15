@@ -301,7 +301,7 @@ export const software: Software[] = [
     ],
     tech: ['Python', 'Microsoft Word'],
     images: seq((i) => `HE (${i}).png`, 1, 10),
-    links: [{ kind: 'youtube', label: 'Canal de YouTube', href: 'https://www.youtube.com/@TJGO-JDD' }],
+    links: [{ kind: 'youtube', label: 'Ver tutorial', href: 'https://www.youtube.com/watch?v=PMN0Hvymqlc' }],
   },
   {
     slug: 'prec-tjgo',
@@ -313,7 +313,7 @@ export const software: Software[] = [
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: [],
     images: seq((i) => `PREC (${i}).png`, 1, 12),
-    links: [],
+    links: [{ kind: 'youtube', label: 'Ver tutorial', href: 'https://www.youtube.com/watch?v=lkQoI2HbHck&t=2s' }],
   },
   {
     slug: 'tjgo-panel-excel',
@@ -325,7 +325,7 @@ export const software: Software[] = [
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: ['Microsoft Excel'],
     images: seq((i) => `PANEL EXCEL (${i}).png`, 1, 4),
-    links: [],
+    links: [{ kind: 'youtube', label: 'Ver tutorial', href: 'https://www.youtube.com/watch?v=iGBMukLckmY&t=305s' }],
   },
   {
     slug: 'tjgo-panel-word',
@@ -337,7 +337,7 @@ export const software: Software[] = [
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: ['Microsoft Word'],
     images: images: seq((i) => `PANELWORD (${i}).png`, 1, 4),
-    links: [],
+    links: [{ kind: 'youtube', label: 'Ver tutorial', href: 'https://www.youtube.com/watch?v=CHyJNEsGhnk&t=599s' }],
   },
 ];
 
