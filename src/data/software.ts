@@ -336,7 +336,7 @@ export const software: Software[] = [
     summary: 'Ficha técnica en preparación.',
     description: ['La documentación de este programa se publicará próximamente.'],
     tech: ['Microsoft Word'],
-    images: images: seq((i) => `PANELWORD (${i}).png`, 1, 4),
+    images: seq((i) => `PANELWORD (${i}).png`, 1, 4),
     links: [{ kind: 'youtube', label: 'Ver tutorial', href: 'https://www.youtube.com/watch?v=CHyJNEsGhnk&t=599s' }],
   },
 ];
